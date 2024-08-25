@@ -17,6 +17,18 @@ https://www.cambridge.org/core/books/multiple-view-geometry-in-computer-vision/0
 
 ## Paper stack
 
+View Morphing
+\
+Seitz and Dyer, SIGGRAPH 1996
+\
+https://dl.acm.org/doi/pdf/10.1145/237170.237196
+
+Unifying Flow, Stereo and Depth Estimation
+\
+Xu et al., TPAMI 2023
+\
+https://arxiv.org/abs/2211.05783
+
 ## Past Meetings
 
 ### Summer 2024
