@@ -8,11 +8,32 @@ We meet on Tuesdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
+#### August 27
+Epipolar Geometry and the Fundamental Matrix (Chapter 9)
+\
+Hartley and Zisserman, 2004
+\
+https://www.cambridge.org/core/books/multiple-view-geometry-in-computer-vision/0B6F289C78B2B23F596CAA76D3D43F7A
+
 ## Paper stack
 
 ## Past Meetings
 
 ### Summer 2024
+
+#### August 6
+6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model
+\
+Matteo Bortolon, Theodore Tsesmelis, Stuart James, Fabio Poiesi, Alessio Del Bue, ECCV 2024
+\
+https://arxiv.org/abs/2407.15484v1
+
+#### July 30
+Multiscale Vessel Enhancement Filtering
+\
+Alejandro F. Frangi, Wiro J. Niessen, Koen L. Vincken & Max A. Viergever, MICCAI 1998
+\
+https://link.springer.com/chapter/10.1007/bfb0056195
 
 #### July 9
 KAN: Kolmogorov–Arnold Networks
@@ -23,9 +44,9 @@ https://arxiv.org/abs/2404.19756
 
 #### July 5
 CARL: A Framework for Equivariant Image Registration
-
+\
 Greer et al., 2024
-
+\
 https://arxiv.org/abs/2405.16738
 
 #### June 25
@@ -653,17 +674,17 @@ A survey on slice to volume reconstruction: Slice-to-volume medical image regist
 Representation Learning with Contrastive Predictive Coding
 [PDF] https://arxiv.org/pdf/1807.03748.pdf
 
-October 6
+#### October 6
 Estimation of Non-normalized Statistical Models by Score Matching
 Aapo Hyvarinen
 [PDF] https://jmlr.org/papers/volume6/hyvarinen05a/old.pdf
 
-September 29
+#### September 29
 Robust Compressed Sensing MRI with Deep Generative Priors
 Ajil Jalal, et al.
 https://arxiv.org/abs/2108.01368
 
-September 22
+#### September 22
 Bayesian Learning via Stochastic Gradient Langevin Dynamics
 Max Welling and Yee Whye Teh
 https://www.stats.ox.ac.uk/~teh/research/compstats/WelTeh2011a.pdf
@@ -673,84 +694,84 @@ Langevin Diffusions and Metropolis-Hastings Algorithms
 G.O. Roberts and O. Stramer
 https://link.springer.com/content/pdf/10.1023/A:1023562417138.pdf
 
-September 1
+#### September 1
 HodgeNet: Learning Spectral Geometry on Triangle Meshes
 Dmitriy Smirnov and Justin Solomon
 https://arxiv.org/pdf/2104.12826.pdf
 
-Summer 2021
-August 25
+### Summer 2021
+#### August 25
 MeshCNN: A Network with an Edge
 Rana Hanocka, Amir Hertz, Noa Fish, Raja Giryes, Shachar Fleishman, Daniel Cohen-Or
 https://arxiv.org/pdf/1809.05910.pdf
 
-August 11
+#### August 11
 CyCADA: Cycle-Consistent Adversarial Domain Adaptation
 Judy Hoffman, Eric Tzeng, Taesung Park, Jun-Yan Zhu, Phillip Isola, Kate Saenko, Alexei A. Efros, Trevor Darrell
 https://arxiv.org/abs/1711.03213
 
-August 4
+#### August 4
 Beyond pixel-wise supervision for segmentation: A few global shape descriptors might be surprisingly good!
 Kervadec et al. 2021 (MIDL, Best Paper Award)
 [pdf] https://2021.midl.io/proceedings/kervadec21.pdf
 
-Spring 2021
-May 10
+### Spring 2021
+
+#### May 10
 Deep Parametric Continuous Convolutional Neural Networks
 Shenlong Wang,Simon Suo,Wei-Chiu Ma, Andrei Pokrovsky, and Raquel Urtasun
 https://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Deep_Parametric_Continuous_CVPR_2018_paper.pdf
 
-May 3
+#### May 3
 Meta-Learning with Latent Embedding Optimization
 Andrei A. Rusu, Dushyant Rao, Jakub Sygnowski, Oriol Vinyals, Razvan Pascanu, Simon Osindero, Raia Hadsell
 https://arxiv.org/abs/1807.05960
 
-April 26
+#### April 26
 Fourier Features Let Networks Learn High Frequency Functions in Low Dimensional Domains
 Matthew Tancik, Pratul P. Srinivasan, Ben Mildenhall, Sara Fridovich-Keil, Nithin Raghavan, Utkarsh Singhal, Ravi Ramamoorthi, Jonathan T. Barron, Ren Ng
 https://arxiv.org/abs/2006.10739
 
-April 12
+#### April 12
 A Simple Framework for Contrastive Learning of Visual Representations
 Ting Chen, Simon Kornblith, Mohammad Norouzi, Geoffrey Hinton
 https://arxiv.org/abs/2002.05709
 
-April 5
+#### April 5
 AutoInt: Automatic Integration for Fast Neural Volume Rendering
 David B. Lindell, Julien N. P. Martel, Gordon Wetzstein
 https://arxiv.org/abs/2012.01714
 
-March 29
+#### March 29
 NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis
 Ben Mildenhall, Pratul P. Srinivasan, Matthew Tancik, Jonathan T. Barron, Ravi Ramamoorthi, Ren Ng
 https://arxiv.org/abs/2003.08934
 
-March 22
+#### March 22
 Image Registration via Stochastic Gradient Markov Chain Monte Carlo (https://doi.org/10.1007/978-3-030-60365-6_1)
 
-March 15
+#### March 15
 Evidential Deep Learning to Quantify Classification Uncertainty (https://arxiv.org/pdf/1806.01768.pdf)
 
-March 8
+#### March 8
 Spherical Deformable U-Net: Application to Cortical Surface Parcellation and Development Prediction
-Zhao et al.spherical_unet.pdf
 
-March 1
+#### March 1
 RARE: Image Reconstruction using Deep Priors Learned without Ground Truth
 Jiaming Liu, Yu Sun, Cihat Eldeniz, Weijie Gan, Hongyu An, Ulugbek S. Kamilov
 https://arxiv.org/abs/1912.05854
 
-Feb 22
+#### Feb 22
 The little engine that could: Regularization by denoising (RED)
 Yaniv Romano, Michael Elad, and Peyman Milanfar
 https://epubs.siam.org/doi/10.1137/16M1102884 red.pdf
 
-Feb 8
+#### Feb 8
 B-spline Parameterized Joint Optimization of Reconstruction and K-space Trajectories (BJORK) for Accelerated 2D MRI
 Guanhua Wang, Tianrui Luo, Jon-Fredrik Nielsen, Douglas C. Noll, Jeffrey A. Fessler
 https://arxiv.org/abs/2101.11369
 
-Feb 1
+#### Feb 1
 CBAM: Convolutional Block Attention Module
 Sanghyun Woo, Jongchan Park, Joon-Young Lee, In So Kweon
 ECCV 2018
@@ -761,17 +782,18 @@ Irwan Bello, Barret Zoph, Ashish Vaswani, Jonathon Shlens, Quoc V. Le
 ICCV 2019
 https://openaccess.thecvf.com/content_ICCV_2019/html/Bello_Attention_Augmented_Convolutional_Networks_ICCV_2019_paper.html
 
-Jan 25
+#### Jan 25
 Linear Predictability in Magnetic Resonance Imaging Reconstruction: Leveraging Shift-Invariant Fourier Structure for Faster and Better Imaging
 Justin P. Haldar, Kawin Setsompop https://ieeexplore.ieee.org/abstract/document/8962389
 
-Jan 11
+#### Jan 11
 Attention is all you need: https://arxiv.org/pdf/1706.03762.pdf (introduces attention)
 On the Relationship between Self-Attention and Convolutional Layers: https://arxiv.org/pdf/1911.03584.pdf (shows attention learns to perform a convolution)
-Jan 4
+
+#### Jan 4
 Information-Theoretic Segmentation by Inpainting Error Maximization https://arxiv.org/abs/2012.07287
 
-Fall 2020
+### Fall 2020
 Dec 14
 Dubois, Yann, Douwe Kiela, David J. Schwab, and Ramakrishna Vedantam. “Learning Optimal Representations with the Decodable Information Bottleneck.” Advances in Neural Information Processing Systems 33 (2020).
 
@@ -857,7 +879,7 @@ Noise2Noise: Learning Image Restoration without Clean Data https://arxiv.org/abs
 
 Extending Stein’s unbiased risk estimator to train deep denoisers with correlated pairs of noisy images https://arxiv.org/abs/1902.02452
 
-Spring 2020
+### Spring 2020
 May 11
 k-Space Deep Learning for Accelerated MRI. Yoseob Han, Leonard Sunwoo, Jong Chul Ye, IEEE TMI. https://arxiv.org/abs/1805.03779
 
@@ -913,7 +935,7 @@ Burda et al, Importance weighted autoencoders (ICLR 2016):
 
 https://arxiv.org/abs/1509.00519
 
-Fall 2019
+### Fall 2019
 16 December
 The Thermodynamic Variational Objective (NeurIPS 2019):
 
@@ -968,7 +990,7 @@ Freeman and Adelson, The design and use of steerable filters, IEEE PAMI 1991 des
 September 9
 Weiler et al, 3D Steerable CNNs: Learning RotationallyEquivariant Features in Volumetric Data, NeurIPS 2018. http://papers.nips.cc/paper/8239-3d-steerable-cnns-learning-rotationally-equivariant-features-in-volumetric-data.pdf
 
-Summer 2019
+### Summer 2019
 August 21
 Dihn et al, Density estimation using Real NVP, ICLR 2017 https://arxiv.org/abs/1605.08803
 
@@ -996,7 +1018,7 @@ Justin Solomon’s slides from his tutorial talk on optimal transport http://peo
 June 27
 Automated Treatment Planning in Radiation Therapy using Generative Adversarial Networks; Mahmood et al. mahmood18a.pdf
 
-Spring 2019
+### Spring 2019
 May 13
 The Neuro-Symbolic Concept Learner: Interpreting Scenes, Words, and Sentences From Natural Supervision; Jiayuan Mao et al. https://openreview.net/forum?id=rJgMlhRctm
 
@@ -1037,7 +1059,7 @@ Continuation of the continuous flows from the Neural-ODEs
 Jan 7
 A Deep Cascade of Convolutional Neural Networks for Dynamic MR Image Reconstruction. Jo Schlemper, Jose Caballero, Joseph V. Hajnal, Anthony Price and Daniel Rueckert. IEEE TMI 2017. //arxiv.org/pdf/1704.02422.pdf
 
-Fall 2018
+### Fall 2018
 Dec. 10
 K. Hammernik, T. Klatzer, E. Kobler, M.P. Recht, D.K. Sodickson, T. Pock, F. Knoll
 arning a Variational Network for Reconstructionof Accelerated MRI Data.
