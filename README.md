@@ -36,7 +36,7 @@ Epipolar Geometry and the Fundamental Matrix (Chapter 9)
 Hartley and Zisserman, 2004
 \
 [[`paper`](https://www.cambridge.org/core/books/multiple-view-geometry-in-computer-vision/0B6F289C78B2B23F596CAA76D3D43F7A)]
-[[`blog`](https://medium.com/@unifyai/part-i-projective-geometry-in-2d-b1ca26d5fa2a)]
+[[`projective geometry tutorial`](https://medium.com/@unifyai/part-i-projective-geometry-in-2d-b1ca26d5fa2a)]
 
 #### August 6
 6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model
