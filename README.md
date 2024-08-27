@@ -2,9 +2,9 @@
 
 We meet on Tuesdays 11:00-12:30pm in 32-D407.
 
-- Feel free to add papers to the paper stack.
 - To join the reading group, feel free to subscribe to the [`v-golland` mailing list at CSAIL](https://lists.csail.mit.edu/mailman/listinfo/v-golland).
-- To get access to the wiki, please contact Margherita Firenze at mfirenze at csail.mit.edu.
+- To get write access to the wiki, please contact Vivek Gopalakrishnan at `vivekg at csail.mit.edu`.
+- Feel free to add papers to the paper stack with a PR.
 
 ## Next meeting
 
