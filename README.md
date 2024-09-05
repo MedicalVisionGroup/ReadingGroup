@@ -8,6 +8,20 @@ We meet on Tuesdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
+#### Date TBA
+Unifying Flow, Stereo and Depth Estimation
+\
+Xu et al., TPAMI 2023
+\
+[[`paper`](https://arxiv.org/abs/2211.05783)]
+[[`blog`](https://haofeixu.github.io/unimatch/)]
+
+## Paper stack
+
+## Past Meetings
+
+### Fall 2024
+
 #### September 3
 View Morphing
 \
@@ -16,20 +30,6 @@ Seitz and Dyer, SIGGRAPH 1996
 [[`paper`](https://dl.acm.org/doi/pdf/10.1145/237170.237196)]
 [[`blog`](https://homes.cs.washington.edu/~seitz/vmorph/vmorph.htm)]
 
-## Paper stack
-
-#### September 10
-Unifying Flow, Stereo and Depth Estimation
-\
-Xu et al., TPAMI 2023
-\
-[[`paper`](https://arxiv.org/abs/2211.05783)]
-[[`blog`](https://haofeixu.github.io/unimatch/)]
-
-## Past Meetings
-
-### Summer 2024
-
 #### August 27
 Epipolar Geometry and the Fundamental Matrix (Chapter 9)
 \
@@ -37,6 +37,8 @@ Hartley and Zisserman, 2004
 \
 [[`paper`](https://www.cambridge.org/core/books/multiple-view-geometry-in-computer-vision/0B6F289C78B2B23F596CAA76D3D43F7A)]
 [[`projective geometry tutorial`](https://medium.com/@unifyai/part-i-projective-geometry-in-2d-b1ca26d5fa2a)]
+
+### Summer 2024
 
 #### August 6
 6DGS: 6D Pose Estimation from a Single Image and a 3D Gaussian Splatting Model
