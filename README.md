@@ -9,18 +9,22 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 ## Next meeting
 
 #### September 12
-Unifying Flow, Stereo and Depth Estimation
-\
-Xu et al., TPAMI 2023
-\
-[[`paper`](https://arxiv.org/abs/2211.05783)]
-[[`blog`](https://haofeixu.github.io/unimatch/)]
+
 
 ## Paper stack
 
 ## Past Meetings
 
 ### Fall 2024
+
+#### September 12
+
+Unifying Flow, Stereo and Depth Estimation
+\
+Xu et al., TPAMI 2023
+\
+[[`paper`](https://arxiv.org/abs/2211.05783)]
+[[`blog`](https://haofeixu.github.io/unimatch/)]
 
 #### September 3
 View Morphing
