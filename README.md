@@ -13,7 +13,7 @@ An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solutio
 \
 Liu et al. NeurIPS 2018
 \
-[[`paper`]](https://arxiv.org/abs/2211.05783](https://arxiv.org/abs/1807.03247)
+[[`paper`]](https://arxiv.org/abs/1807.03247)
 [[`blog`]](https://medium.com/the-21st-century/failing-of-convolutional-neural-networks-8890112df08e)
 
 
