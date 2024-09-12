@@ -19,6 +19,13 @@ Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu
 [[`blog in Chinese that is good`]](https://kexue.fm/archives/8265)
 
 
+
+## Paper stack
+
+## Past Meetings
+
+### Fall 2024
+
 #### September 12
 Unifying Flow, Stereo and Depth Estimation
 \
@@ -26,12 +33,6 @@ Xu et al., TPAMI 2023
 \
 [[`paper`](https://arxiv.org/abs/2211.05783)]
 [[`blog`](https://haofeixu.github.io/unimatch/)]
-
-## Paper stack
-
-## Past Meetings
-
-### Fall 2024
 
 #### September 3
 View Morphing
