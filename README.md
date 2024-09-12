@@ -8,6 +8,17 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
+#### September 19
+
+RoFormer: Enhanced Transformer with Rotary Position Embedding
+\
+Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu
+\
+[[`paper`]](https://arxiv.org/abs/2104.09864)
+[[`blog`]](https://blog.eleuther.ai/rotary-embeddings/)
+[[`blog in Chinese that is good`]](https://kexue.fm/archives/8265)
+
+
 #### September 12
 Unifying Flow, Stereo and Depth Estimation
 \
