@@ -12,7 +12,7 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution 
 \
 Liu et al. NeurIPS 2018
-[[`paper`](https://arxiv.org/abs/2211.05783](https://arxiv.org/abs/1807.03247)
+[[`paper`]](https://arxiv.org/abs/2211.05783](https://arxiv.org/abs/1807.03247)
 [[`blog`]](https://medium.com/the-21st-century/failing-of-convolutional-neural-networks-8890112df08e)
 
 
