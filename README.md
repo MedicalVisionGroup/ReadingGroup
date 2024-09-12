@@ -9,6 +9,15 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 ## Next meeting
 
 #### September 19
+An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution 
+\
+Liu et al. NeurIPS 2018
+[[`paper`](https://arxiv.org/abs/2211.05783](https://arxiv.org/abs/1807.03247)
+[[`blog`]](https://medium.com/the-21st-century/failing-of-convolutional-neural-networks-8890112df08e)
+
+
+
+## Paper stack
 
 RoFormer: Enhanced Transformer with Rotary Position Embedding
 \
@@ -19,8 +28,6 @@ Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu
 [[`blog in Chinese that is good`]](https://kexue.fm/archives/8265)
 
 
-
-## Paper stack
 
 ## Past Meetings
 
