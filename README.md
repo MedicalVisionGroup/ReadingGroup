@@ -13,8 +13,8 @@ An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solutio
 \
 Liu et al. NeurIPS 2018
 \
-[[`paper`]](https://arxiv.org/abs/1807.03247)
-[[`blog`]](https://medium.com/the-21st-century/failing-of-convolutional-neural-networks-8890112df08e)
+[[`paper`](https://arxiv.org/abs/1807.03247)]
+[[`blog`](https://medium.com/the-21st-century/failing-of-convolutional-neural-networks-8890112df08e)]
 
 
 
@@ -24,9 +24,9 @@ RoFormer: Enhanced Transformer with Rotary Position Embedding
 \
 Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu
 \
-[[`paper`]](https://arxiv.org/abs/2104.09864)
-[[`blog`]](https://blog.eleuther.ai/rotary-embeddings/)
-[[`blog in Chinese that is good`]](https://kexue.fm/archives/8265)
+[[`paper`](https://arxiv.org/abs/2104.09864)]
+[[`blog`](https://blog.eleuther.ai/rotary-embeddings/)]
+[[`blog in Chinese that is good`](https://kexue.fm/archives/8265)]
 
 
 
