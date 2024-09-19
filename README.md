@@ -8,18 +8,7 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### September 19
-An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution 
-\
-Liu et al. NeurIPS 2018
-\
-[[`paper`](https://arxiv.org/abs/1807.03247)]
-[[`blog`](https://medium.com/the-21st-century/failing-of-convolutional-neural-networks-8890112df08e)]
-
-
-
-## Paper stack
-
+#### September 26
 RoFormer: Enhanced Transformer with Rotary Position Embedding
 \
 Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu
@@ -28,11 +17,25 @@ Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu
 [[`blog`](https://blog.eleuther.ai/rotary-embeddings/)]
 [[`blog in Chinese that is good`](https://kexue.fm/archives/8265)]
 
+## Paper stack
 
+FireANTs: Adaptive Riemannian Optimization for Multi-Scale Diffeomorphic Registration
+\
+Jena et al., 2024
+\
+[[`paper`](https://arxiv.org/abs/2404.01249)]
 
 ## Past Meetings
 
 ### Fall 2024
+
+#### September 19
+An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution 
+\
+Liu et al. NeurIPS 2018
+\
+[[`paper`](https://arxiv.org/abs/1807.03247)]
+[[`blog`](https://medium.com/the-21st-century/failing-of-convolutional-neural-networks-8890112df08e)]
 
 #### September 12
 Unifying Flow, Stereo and Depth Estimation
