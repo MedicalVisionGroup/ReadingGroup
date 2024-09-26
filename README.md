@@ -8,6 +8,19 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
+#### October 3
+FireANTs: Adaptive Riemannian Optimization for Multi-Scale Diffeomorphic Registration
+\
+Jena et al., 2024
+\
+[[`paper`](https://arxiv.org/abs/2404.01249)]
+
+## Paper stack
+
+## Past Meetings
+
+### Fall 2024
+
 #### September 26
 RoFormer: Enhanced Transformer with Rotary Position Embedding
 \
@@ -16,18 +29,6 @@ Jianlin Su, Yu Lu, Shengfeng Pan, Ahmed Murtadha, Bo Wen, Yunfeng Liu
 [[`paper`](https://arxiv.org/abs/2104.09864)]
 [[`blog`](https://blog.eleuther.ai/rotary-embeddings/)]
 [[`blog in Chinese that is good`](https://kexue.fm/archives/8265)]
-
-## Paper stack
-
-FireANTs: Adaptive Riemannian Optimization for Multi-Scale Diffeomorphic Registration
-\
-Jena et al., 2024
-\
-[[`paper`](https://arxiv.org/abs/2404.01249)]
-
-## Past Meetings
-
-### Fall 2024
 
 #### September 19
 An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution 
