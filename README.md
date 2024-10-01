@@ -9,13 +9,19 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 ## Next meeting
 
 #### October 3
+HIT: Estimating Internal Human Implicit Tissues from the Body Surface
+\
+Keller et al., CVPR 2024
+\
+[[`paper`](https://ieeexplore.ieee.org/document/10657451)]
+
+## Paper stack
+
 FireANTs: Adaptive Riemannian Optimization for Multi-Scale Diffeomorphic Registration
 \
 Jena et al., 2024
 \
 [[`paper`](https://arxiv.org/abs/2404.01249)]
-
-## Paper stack
 
 ## Past Meetings
 
