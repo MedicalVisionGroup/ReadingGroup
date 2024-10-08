@@ -8,24 +8,32 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### October 3
-HIT: Estimating Internal Human Implicit Tissues from the Body Surface
-\
-Keller et al., CVPR 2024
-\
-[[`paper`](https://ieeexplore.ieee.org/document/10657451)]
-
-## Paper stack
-
+#### October 10
 FireANTs: Adaptive Riemannian Optimization for Multi-Scale Diffeomorphic Registration
 \
 Jena et al., 2024
 \
 [[`paper`](https://arxiv.org/abs/2404.01249)]
 
+## Paper stack
+
+Deconvolution-Based CT and MR Brain Perfusion Measurement: Theoretical Model Revisited and Practical Implementation Details
+\
+Fieselmann et al., Int J Biomed Imaging 2011
+\
+[[`paper`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166726/)]
+[[`video`](https://www.youtube.com/watch?v=wjaRtG-OZk0)]
+
 ## Past Meetings
 
 ### Fall 2024
+
+#### October 3
+HIT: Estimating Internal Human Implicit Tissues from the Body Surface
+\
+Keller et al., CVPR 2024
+\
+[[`paper`](https://ieeexplore.ieee.org/document/10657451)]
 
 #### September 26
 RoFormer: Enhanced Transformer with Rotary Position Embedding
