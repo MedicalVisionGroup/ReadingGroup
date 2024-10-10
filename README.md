@@ -8,12 +8,12 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### October 10
-FireANTs: Adaptive Riemannian Optimization for Multi-Scale Diffeomorphic Registration
+#### October 17
+UniverSeg: Universal Medical Image Segmentation
 \
-Jena et al., 2024
+Butoi and Ortiz et al., ICCV 2023
 \
-[[`paper`](https://arxiv.org/abs/2404.01249)]
+[[`paper`](https://arxiv.org/abs/2304.06131)]
 
 ## Paper stack
 
@@ -27,6 +27,13 @@ Fieselmann et al., Int J Biomed Imaging 2011
 ## Past Meetings
 
 ### Fall 2024
+
+#### October 10
+FireANTs: Adaptive Riemannian Optimization for Multi-Scale Diffeomorphic Registration
+\
+Jena et al., 2024
+\
+[[`paper`](https://arxiv.org/abs/2404.01249)]
 
 #### October 3
 HIT: Estimating Internal Human Implicit Tissues from the Body Surface
