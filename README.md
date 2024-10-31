@@ -8,12 +8,12 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### October 17
-UniverSeg: Universal Medical Image Segmentation
+#### October 31
+Inference in Probabilistic Graphical Models by Graph Neural Networks
 \
-Butoi and Ortiz et al., ICCV 2023
+Yoon et al., 2019
 \
-[[`paper`](https://arxiv.org/abs/2304.06131)]
+[[`paper`](https://arxiv.org/abs/1803.07710)]
 
 ## Paper stack
 
@@ -24,9 +24,22 @@ Fieselmann et al., Int J Biomed Imaging 2011
 [[`paper`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166726/)]
 [[`video`](https://www.youtube.com/watch?v=wjaRtG-OZk0)]
 
+Neural Ordinary Differential Equations
+\
+Chen et al., NeurIPS 2018
+\
+[[`paper`](https://arxiv.org/abs/1806.07366)]
+
 ## Past Meetings
 
 ### Fall 2024
+
+#### October 17
+UniverSeg: Universal Medical Image Segmentation
+\
+Butoi and Ortiz et al., ICCV 2023
+\
+[[`paper`](https://arxiv.org/abs/2304.06131)]
 
 #### October 10
 FireANTs: Adaptive Riemannian Optimization for Multi-Scale Diffeomorphic Registration
