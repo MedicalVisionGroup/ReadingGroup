@@ -8,12 +8,12 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### October 31
-Inference in Probabilistic Graphical Models by Graph Neural Networks
+#### November 7
+Neural Message Passing for Quantum Chemistry
 \
-Yoon et al., 2019
+Gilmer et al., ICML 2017
 \
-[[`paper`](https://arxiv.org/abs/1803.07710)]
+[[`paper`](https://proceedings.mlr.press/v70/gilmer17a)]
 
 ## Paper stack
 
@@ -33,6 +33,13 @@ Chen et al., NeurIPS 2018
 ## Past Meetings
 
 ### Fall 2024
+
+#### October 31
+Inference in Probabilistic Graphical Models by Graph Neural Networks
+\
+Yoon et al., 2019
+\
+[[`paper`](https://arxiv.org/abs/1803.07710)]
 
 #### October 17
 UniverSeg: Universal Medical Image Segmentation
