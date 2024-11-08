@@ -8,12 +8,12 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### November 7
-Neural Message Passing for Quantum Chemistry
+#### November 14
+Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations
 \
-Gilmer et al., ICML 2017
+Raissi et al., Science 2020
 \
-[[`paper`](https://proceedings.mlr.press/v70/gilmer17a)]
+[[`paper`](https://www.science.org/doi/full/10.1126/science.aaw4741)]
 
 ## Paper stack
 
@@ -33,6 +33,13 @@ Chen et al., NeurIPS 2018
 ## Past Meetings
 
 ### Fall 2024
+
+#### November 7
+Neural Message Passing for Quantum Chemistry
+\
+Gilmer et al., ICML 2017
+\
+[[`paper`](https://proceedings.mlr.press/v70/gilmer17a)]
 
 #### October 31
 Inference in Probabilistic Graphical Models by Graph Neural Networks
