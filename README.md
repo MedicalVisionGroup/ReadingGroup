@@ -8,12 +8,12 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### November 14
-Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations
+#### November 21
+Neural Ordinary Differential Equations
 \
-Raissi et al., Science 2020
+Chen et al., NeurIPS 2018
 \
-[[`paper`](https://www.science.org/doi/full/10.1126/science.aaw4741)]
+[[`paper`](https://arxiv.org/abs/1806.07366)]
 
 ## Paper stack
 
@@ -24,15 +24,17 @@ Fieselmann et al., Int J Biomed Imaging 2011
 [[`paper`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166726/)]
 [[`video`](https://www.youtube.com/watch?v=wjaRtG-OZk0)]
 
-Neural Ordinary Differential Equations
-\
-Chen et al., NeurIPS 2018
-\
-[[`paper`](https://arxiv.org/abs/1806.07366)]
 
 ## Past Meetings
 
 ### Fall 2024
+
+#### November 14
+Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations
+\
+Raissi et al., Science 2020
+\
+[[`paper`](https://www.science.org/doi/full/10.1126/science.aaw4741)]
 
 #### November 7
 Neural Message Passing for Quantum Chemistry
