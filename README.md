@@ -8,7 +8,7 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### November 21
+#### December 5
 Neural Ordinary Differential Equations
 \
 Chen et al., NeurIPS 2018
