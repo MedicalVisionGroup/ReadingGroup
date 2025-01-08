@@ -8,12 +8,12 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### December 5
-Neural Ordinary Differential Equations
+#### January 9
+Rotation Averaging
 \
-Chen et al., NeurIPS 2018
+Hartley et al., Int J Comput Vis 2013
 \
-[[`paper`](https://arxiv.org/abs/1806.07366)]
+[[`paper`](https://link.springer.com/article/10.1007/s11263-012-0601-0)]
 
 ## Paper stack
 
@@ -28,6 +28,13 @@ Fieselmann et al., Int J Biomed Imaging 2011
 ## Past Meetings
 
 ### Fall 2024
+
+#### December 5
+Neural Ordinary Differential Equations
+\
+Chen et al., NeurIPS 2018
+\
+[[`paper`](https://arxiv.org/abs/1806.07366)]
 
 #### November 14
 Hidden fluid mechanics: Learning velocity and pressure fields from flow visualizations
