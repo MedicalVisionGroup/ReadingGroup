@@ -8,12 +8,13 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### January 9
-Rotation Averaging
+#### January 16
+Neural Mesh Flow: 3D Manifold Mesh Generation via Diffeomorphic Flows
 \
-Hartley et al., Int J Comput Vis 2013
+Gupta et al., NeurIPS 2020
 \
-[[`paper`](https://link.springer.com/article/10.1007/s11263-012-0601-0)]
+[[`paper`](https://kunalmgupta.github.io/projects/NeuralMeshflow.html)]
+
 
 ## Paper stack
 
@@ -28,6 +29,13 @@ Fieselmann et al., Int J Biomed Imaging 2011
 ## Past Meetings
 
 ### Fall 2024
+
+#### January 9
+Rotation Averaging
+\
+Hartley et al., Int J Comput Vis 2013
+\
+[[`paper`](https://link.springer.com/article/10.1007/s11263-012-0601-0)]
 
 #### December 5
 Neural Ordinary Differential Equations
