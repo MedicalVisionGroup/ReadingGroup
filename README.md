@@ -9,11 +9,11 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 ## Next meeting
 
 #### January 23
-A Log-Euclidean Polyaffine Framework for Locally Rigid or Affine Registration
+A Fast and Log-Euclidean Polyaffine Framework for Locally Linear Registration
 \
-Arsigny et al., Biomedical Image Registration 2006
+Arsigny et al., Journal of Mathematical Imaging and Vision 2009
 \
-[[`paper`](https://www-sop.inria.fr/asclepios/Publications/Arsigny/arsigny_wbir.pdf)]
+[[`paper`](https://link.springer.com/article/10.1007/s10851-008-0135-9)]
 
 ## Paper stack
 
