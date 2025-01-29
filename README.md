@@ -24,6 +24,12 @@ Fieselmann et al., Int J Biomed Imaging 2011
 [[`paper`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166726/)]
 [[`video`](https://www.youtube.com/watch?v=wjaRtG-OZk0)]
 
+Scale-Equivariant Steerable Networks
+\
+Sosnovik et al., ICLR 2020
+\
+[[`paper`](https://openreview.net/pdf?id=HJgpugrKPS)]
+
 
 ## Past Meetings
 
