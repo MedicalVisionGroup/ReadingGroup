@@ -20,7 +20,7 @@ Least-Squares Fitting of Two 3-D Point Sets
 Closed-form solution of absolute orientation using unit
 quaternions
 \
-Horn, Journ. Opt Society
+Horn, Journ. Opt Society 1987
 \
 [[`paper`](https://web.stanford.edu/class/cs273/refs/Absolute-OPT.pdf)]
 
@@ -29,8 +29,7 @@ An Analysis of SVD for Deep Rotation Estimation
 \
  Levinson et al., NeurIPS 2020
 \
-[[`paper`](https://arxiv.org/pdf/2006.14616![image](https://github.com/user-attachments/assets/46aa36b3-61de-4b43-9b0d-3de1c128d6b3)
-)]
+[[`paper`](https://arxiv.org/abs/2006.14616)]
 
 
 ## Paper stack
