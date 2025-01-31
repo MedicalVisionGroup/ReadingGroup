@@ -8,12 +8,7 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### January 30
-Rotation Averaging
-\
-Hartley et al., Int J Comput Vis 2013
-\
-[[`paper`](https://link.springer.com/article/10.1007/s11263-012-0601-0)]
+
 
 ## Paper stack
 
@@ -34,6 +29,13 @@ Sosnovik et al., ICLR 2020
 ## Past Meetings
 
 ### Spring 2025
+
+#### January 30
+Rotation Averaging
+\
+Hartley et al., Int J Comput Vis 2013
+\
+[[`paper`](https://link.springer.com/article/10.1007/s11263-012-0601-0)]
 
 #### January 23
 A Fast and Log-Euclidean Polyaffine Framework for Locally Linear Registration
