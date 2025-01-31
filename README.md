@@ -17,7 +17,7 @@ Least-Squares Fitting of Two 3-D Point Sets
 [[`paper`](https://ieeexplore.ieee.org/document/4767965)]
 
 
-Closed-form solution of absolute orientation using uni t
+Closed-form solution of absolute orientation using unit
 quaternions
 \
 Horn, Journ. Opt Society
