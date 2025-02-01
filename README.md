@@ -17,8 +17,7 @@ Least-Squares Fitting of Two 3-D Point Sets
 [[`paper`](https://ieeexplore.ieee.org/document/4767965)]
 
 
-Closed-form solution of absolute orientation using unit
-quaternions
+Closed-form solution of absolute orientation using unit quaternions
 \
 Horn, Journ. Opt Society 1987
 \
@@ -27,19 +26,12 @@ Horn, Journ. Opt Society 1987
 
 An Analysis of SVD for Deep Rotation Estimation
 \
- Levinson et al., NeurIPS 2020
+Levinson et al., NeurIPS 2020
 \
 [[`paper`](https://arxiv.org/abs/2006.14616)]
 
 
 ## Paper stack
-
-Deconvolution-Based CT and MR Brain Perfusion Measurement: Theoretical Model Revisited and Practical Implementation Details
-\
-Fieselmann et al., Int J Biomed Imaging 2011
-\
-[[`paper`](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166726/)]
-[[`video`](https://www.youtube.com/watch?v=wjaRtG-OZk0)]
 
 Scale-Equivariant Steerable Networks
 \
@@ -47,6 +39,11 @@ Sosnovik et al., ICLR 2020
 \
 [[`paper`](https://openreview.net/pdf?id=HJgpugrKPS)]
 
+Generative Modelling With Inverse Heat Dissipation
+\
+Rissanen et al., ICLR 2023
+\
+[[`paper`](https://arxiv.org/abs/2206.13397)]
 
 ## Past Meetings
 
