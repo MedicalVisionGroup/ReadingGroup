@@ -1,6 +1,6 @@
 # Polina's Reading Group
 
-We meet on Thursdays 11:00-12:30pm in 32-D407.
+We meet on Fridays 11:00-12:30pm in 32-D407.
 
 - To join the reading group, feel free to subscribe to the [`v-golland` mailing list at CSAIL](https://lists.csail.mit.edu/mailman/listinfo/v-golland).
 - To get write access to the wiki, please contact Vivek Gopalakrishnan at `vivekg at csail.mit.edu`.
@@ -9,7 +9,7 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 ## Next meeting
 
 
-#### January 30
+#### Febuary 7
 Least-Squares Fitting of Two 3-D Point Sets
 \
  Arun et al., IEEE Transactions 1987
