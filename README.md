@@ -9,21 +9,7 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 ## Next meeting
 
 
-#### Febuary 7
-Least-Squares Fitting of Two 3-D Point Sets
-\
- Arun et al., IEEE Transactions 1987
-\
-[[`paper`](https://ieeexplore.ieee.org/document/4767965)]
-
-
-Closed-form solution of absolute orientation using unit quaternions
-\
-Horn, Journ. Opt Society 1987
-\
-[[`paper`](https://web.stanford.edu/class/cs273/refs/Absolute-OPT.pdf)]
-
-
+#### Febuary 14
 An Analysis of SVD for Deep Rotation Estimation
 \
 Levinson et al., NeurIPS 2020
@@ -37,7 +23,7 @@ Scale-Equivariant Steerable Networks
 \
 Sosnovik et al., ICLR 2020
 \
-[[`paper`](https://openreview.net/pdf?id=HJgpugrKPS)]
+[[`paper`](https://arxiv.org/abs/1910.11093)]
 
 Generative Modelling With Inverse Heat Dissipation
 \
@@ -45,9 +31,29 @@ Rissanen et al., ICLR 2023
 \
 [[`paper`](https://arxiv.org/abs/2206.13397)]
 
+Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference
+\
+Chiang et al., ICML 2024
+\
+[[`paper`](https://arxiv.org/abs/2403.04132)]
+
 ## Past Meetings
 
 ### Spring 2025
+
+#### Febuary 7
+Least-Squares Fitting of Two 3-D Point Sets
+\
+ Arun et al., IEEE Transactions 1987
+\
+[[`paper`](https://ieeexplore.ieee.org/document/4767965)]
+
+
+Closed-form solution of absolute orientation using unit quaternions
+\
+Horn, Journ. Opt Society 1987
+\
+[[`paper`](https://web.stanford.edu/class/cs273/refs/Absolute-OPT.pdf)]
 
 #### January 30
 Rotation Averaging
