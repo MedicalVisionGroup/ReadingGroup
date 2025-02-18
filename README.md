@@ -9,12 +9,13 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 ## Next meeting
 
 
-#### Febuary 14
-An Analysis of SVD for Deep Rotation Estimation
+#### Febuary 21
+
+Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference
 \
-Levinson et al., NeurIPS 2020
+Chiang et al., ICML 2024
 \
-[[`paper`](https://arxiv.org/abs/2006.14616)]
+[[`paper`](https://arxiv.org/abs/2403.04132)]
 
 
 ## Paper stack
@@ -31,15 +32,16 @@ Rissanen et al., ICLR 2023
 \
 [[`paper`](https://arxiv.org/abs/2206.13397)]
 
-Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference
-\
-Chiang et al., ICML 2024
-\
-[[`paper`](https://arxiv.org/abs/2403.04132)]
-
 ## Past Meetings
 
 ### Spring 2025
+
+#### Febuary 14
+An Analysis of SVD for Deep Rotation Estimation
+\
+Levinson et al., NeurIPS 2020
+\
+[[`paper`](https://arxiv.org/abs/2006.14616)]
 
 #### Febuary 7
 Least-Squares Fitting of Two 3-D Point Sets
