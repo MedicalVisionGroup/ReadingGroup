@@ -9,22 +9,15 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 ## Next meeting
 
 
-#### Febuary 21
-
-Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference
-\
-Chiang et al., ICML 2024
-\
-[[`paper`](https://arxiv.org/abs/2403.04132)]
-
-
-## Paper stack
-
+#### Febuary 28
 Scale-Equivariant Steerable Networks
 \
 Sosnovik et al., ICLR 2020
 \
 [[`paper`](https://arxiv.org/abs/1910.11093)]
+
+
+## Paper stack
 
 Generative Modelling With Inverse Heat Dissipation
 \
@@ -32,9 +25,22 @@ Rissanen et al., ICLR 2023
 \
 [[`paper`](https://arxiv.org/abs/2206.13397)]
 
+Tangent Space Backpropagation for 3D Transformation Groups
+\
+Zachary Teed and Jia Deng, CVPR 2021
+\
+[[`paper](https://arxiv.org/pdf/2103.12032)]
+
 ## Past Meetings
 
 ### Spring 2025
+
+#### Febuary 21
+Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference
+\
+Chiang et al., ICML 2024
+\
+[[`paper`](https://arxiv.org/abs/2403.04132)]
 
 #### Febuary 14
 An Analysis of SVD for Deep Rotation Estimation
