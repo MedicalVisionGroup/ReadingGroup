@@ -9,7 +9,7 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 ## Next meeting
 
 
-#### Febuary 28
+#### Febuary 28 and March 7
 Scale-Equivariant Steerable Networks
 \
 Sosnovik et al., ICLR 2020
@@ -30,6 +30,12 @@ Tangent Space Backpropagation for 3D Transformation Groups
 Zachary Teed and Jia Deng, CVPR 2021
 \
 [[`paper](https://arxiv.org/pdf/2103.12032)]
+
+Nineteen Dubious Ways to Compute the Exponential of a Matrix
+\
+Moler and Van Load, SIAM Review 1978
+\
+[[`paper`](https://epubs.siam.org/doi/abs/10.1137/S00361445024180)]
 
 ## Past Meetings
 
