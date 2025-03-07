@@ -8,6 +8,12 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
+#### March 14
+Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
+\
+Bansal et al., NeurIPS 2022
+\
+[[`paper`](https://arxiv.org/pdf/2208.09392)]
 
 #### Febuary 28 and March 7
 Scale-Equivariant Steerable Networks
