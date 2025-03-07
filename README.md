@@ -15,14 +15,6 @@ Bansal et al., NeurIPS 2022
 \
 [[`paper`](https://arxiv.org/pdf/2208.09392)]
 
-#### Febuary 28 and March 7
-Scale-Equivariant Steerable Networks
-\
-Sosnovik et al., ICLR 2020
-\
-[[`paper`](https://arxiv.org/abs/1910.11093)]
-
-
 ## Paper stack
 
 Generative Modelling With Inverse Heat Dissipation
@@ -46,6 +38,13 @@ Moler and Van Load, SIAM Review 1978
 ## Past Meetings
 
 ### Spring 2025
+
+#### Febuary 28 and March 7
+Scale-Equivariant Steerable Networks
+\
+Sosnovik et al., ICLR 2020
+\
+[[`paper`](https://arxiv.org/abs/1910.11093)]
 
 #### Febuary 21
 Chatbot Arena: An Open Platform for Evaluating LLMs by Human Preference
