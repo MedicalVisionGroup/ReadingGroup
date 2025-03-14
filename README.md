@@ -8,12 +8,12 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### March 14
-Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
+#### March 21
+Tangent Space Backpropagation for 3D Transformation Groups
 \
-Bansal et al., NeurIPS 2022
+Zachary Teed and Jia Deng, CVPR 2021
 \
-[[`paper`](https://arxiv.org/pdf/2208.09392)]
+[[`paper`](https://arxiv.org/pdf/2103.12032)]
 
 ## Paper stack
 
@@ -22,12 +22,6 @@ Generative Modelling With Inverse Heat Dissipation
 Rissanen et al., ICLR 2023
 \
 [[`paper`](https://arxiv.org/abs/2206.13397)]
-
-Tangent Space Backpropagation for 3D Transformation Groups
-\
-Zachary Teed and Jia Deng, CVPR 2021
-\
-[[`paper](https://arxiv.org/pdf/2103.12032)]
 
 Nineteen Dubious Ways to Compute the Exponential of a Matrix
 \
@@ -38,6 +32,13 @@ Moler and Van Load, SIAM Review 1978
 ## Past Meetings
 
 ### Spring 2025
+
+#### March 14
+Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
+\
+Bansal et al., NeurIPS 2022
+\
+[[`paper`](https://arxiv.org/pdf/2208.09392)]
 
 #### Febuary 28 and March 7
 Scale-Equivariant Steerable Networks
