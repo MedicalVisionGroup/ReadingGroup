@@ -29,6 +29,11 @@ Moler and Van Load, SIAM Review 1978
 \
 [[`paper`](https://epubs.siam.org/doi/abs/10.1137/S00361445024180)]
 
+Vector products and pseudovectors
+\
+Walter Hauser, American Journal of Physics, 1986
+[[`paper`](https://pubs.aip.org/aapt/ajp/article/54/2/168/1052675/Vector-products-and-pseudovectors)]
+
 ## Past Meetings
 
 ### Spring 2025
