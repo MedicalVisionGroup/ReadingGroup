@@ -8,7 +8,7 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### March 21
+#### April 4
 Tangent Space Backpropagation for 3D Transformation Groups
 \
 Zachary Teed and Jia Deng, CVPR 2021
