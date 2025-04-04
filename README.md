@@ -32,11 +32,13 @@ Moler and Van Load, SIAM Review 1978
 Vector products and pseudovectors
 \
 Walter Hauser, American Journal of Physics, 1986
+\
 [[`paper`](https://pubs.aip.org/aapt/ajp/article/54/2/168/1052675/Vector-products-and-pseudovectors)]
 
 Diffusion-LM Improves Controllable Text Generation
 \
 Xiang Lisa Li, et. al., Neurips 2022
+\
 [[`paper`](https://proceedings.neurips.cc/paper_files/paper/2022/file/1be5bc25d50895ee656b8c2d9eb89d6a-Paper-Conference.pdf)]
 
 ## Past Meetings
