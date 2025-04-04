@@ -8,12 +8,12 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### April 4
-Tangent Space Backpropagation for 3D Transformation Groups
+#### April 11
+Vector products and pseudovectors
 \
-Zachary Teed and Jia Deng, CVPR 2021
+Walter Hauser, American Journal of Physics, 1986
 \
-[[`paper`](https://arxiv.org/pdf/2103.12032)]
+[[`paper`](https://pubs.aip.org/aapt/ajp/article/54/2/168/1052675/Vector-products-and-pseudovectors)]
 
 ## Paper stack
 
@@ -29,12 +29,6 @@ Moler and Van Load, SIAM Review 1978
 \
 [[`paper`](https://epubs.siam.org/doi/abs/10.1137/S00361445024180)]
 
-Vector products and pseudovectors
-\
-Walter Hauser, American Journal of Physics, 1986
-\
-[[`paper`](https://pubs.aip.org/aapt/ajp/article/54/2/168/1052675/Vector-products-and-pseudovectors)]
-
 Diffusion-LM Improves Controllable Text Generation
 \
 Xiang Lisa Li, et. al., Neurips 2022
@@ -44,6 +38,13 @@ Xiang Lisa Li, et. al., Neurips 2022
 ## Past Meetings
 
 ### Spring 2025
+
+#### April 4
+Tangent Space Backpropagation for 3D Transformation Groups
+\
+Zachary Teed and Jia Deng, CVPR 2021
+\
+[[`paper`](https://arxiv.org/pdf/2103.12032)]
 
 #### March 14
 Cold Diffusion: Inverting Arbitrary Image Transforms Without Noise
