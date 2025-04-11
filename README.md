@@ -8,12 +8,12 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### April 11
-Vector products and pseudovectors
+#### April 18
+Diffusion-LM Improves Controllable Text Generation
 \
-Walter Hauser, American Journal of Physics, 1986
+Xiang Lisa Li, et. al., Neurips 2022
 \
-[[`paper`](https://pubs.aip.org/aapt/ajp/article/54/2/168/1052675/Vector-products-and-pseudovectors)]
+[[`paper`](https://proceedings.neurips.cc/paper_files/paper/2022/file/1be5bc25d50895ee656b8c2d9eb89d6a-Paper-Conference.pdf)]
 
 ## Paper stack
 
@@ -29,15 +29,16 @@ Moler and Van Load, SIAM Review 1978
 \
 [[`paper`](https://epubs.siam.org/doi/abs/10.1137/S00361445024180)]
 
-Diffusion-LM Improves Controllable Text Generation
-\
-Xiang Lisa Li, et. al., Neurips 2022
-\
-[[`paper`](https://proceedings.neurips.cc/paper_files/paper/2022/file/1be5bc25d50895ee656b8c2d9eb89d6a-Paper-Conference.pdf)]
-
 ## Past Meetings
 
 ### Spring 2025
+
+#### April 11
+Vector products and pseudovectors
+\
+Walter Hauser, American Journal of Physics, 1986
+\
+[[`paper`](https://pubs.aip.org/aapt/ajp/article/54/2/168/1052675/Vector-products-and-pseudovectors)]
 
 #### April 4
 Tangent Space Backpropagation for 3D Transformation Groups
