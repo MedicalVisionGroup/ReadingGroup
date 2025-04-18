@@ -23,12 +23,6 @@ Rissanen et al., ICLR 2023
 \
 [[`paper`](https://arxiv.org/abs/2206.13397)]
 
-Nineteen Dubious Ways to Compute the Exponential of a Matrix
-\
-Moler and Van Load, SIAM Review 1978
-\
-[[`paper`](https://epubs.siam.org/doi/abs/10.1137/S00361445024180)]
-
 ## Past Meetings
 
 ### Spring 2025
