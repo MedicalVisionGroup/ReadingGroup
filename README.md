@@ -17,12 +17,6 @@ Xiang Lisa Li, et. al., Neurips 2022
 
 ## Paper stack
 
-Generative Modelling With Inverse Heat Dissipation
-\
-Rissanen et al., ICLR 2023
-\
-[[`paper`](https://arxiv.org/abs/2206.13397)]
-
 ## Past Meetings
 
 ### Spring 2025
