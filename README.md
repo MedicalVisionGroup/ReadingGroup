@@ -16,6 +16,11 @@ Xiang Lisa Li, et. al., Neurips 2022
 [[`paper`](https://proceedings.neurips.cc/paper_files/paper/2022/file/1be5bc25d50895ee656b8c2d9eb89d6a-Paper-Conference.pdf)]
 
 ## Paper stack
+Computing Fourier Transforms and Convolutions on the 2-Sphere
+\
+J.R. Driscoll and D.M. Healy, Advances in Applied Mathematics 1994
+\
+[[`paper`](https://www.sciencedirect.com/science/article/pii/S0196885884710086?via%3Dihub)]
 
 ## Past Meetings
 
