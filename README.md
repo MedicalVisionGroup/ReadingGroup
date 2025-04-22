@@ -16,11 +16,11 @@ Shivam Duggal and Deepak Pathak, CVPR 2022
 [[`paper`](https://openaccess.thecvf.com/content/CVPR2022/papers/Duggal_Topologically-Aware_Deformation_Fields_for_Single-View_3D_Reconstruction_CVPR_2022_paper.pdf)][[`blog`](https://shivamduggal4.github.io/tars-3D/)]
 
 ## Paper stack
-Computing Fourier Transforms and Convolutions on the 2-Sphere
+Associating Uncertainty With Three-Dimensional Poses for Use in Estimation Problems
 \
-J.R. Driscoll and D.M. Healy, Advances in Applied Mathematics 1994
+Timothy D. Barfoot and Paul T. Furgale, IEEE Transactions on Robotics 2014
 \
-[[`paper`](https://www.sciencedirect.com/science/article/pii/S0196885884710086?via%3Dihub)]
+[[`paper`](https://ieeexplore.ieee.org/abstract/document/6727494)]
 
 ## Past Meetings
 
