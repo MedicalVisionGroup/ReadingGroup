@@ -8,12 +8,12 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### April 18
-Diffusion-LM Improves Controllable Text Generation
+#### April 25
+Topologically-Aware Deformation Fields for Single-View 3D Reconstruction
 \
-Xiang Lisa Li, et. al., Neurips 2022
+Shivam Duggal and Deepak Pathak, CVPR 2022
 \
-[[`paper`](https://proceedings.neurips.cc/paper_files/paper/2022/file/1be5bc25d50895ee656b8c2d9eb89d6a-Paper-Conference.pdf)]
+[[`paper`](https://openaccess.thecvf.com/content/CVPR2022/papers/Duggal_Topologically-Aware_Deformation_Fields_for_Single-View_3D_Reconstruction_CVPR_2022_paper.pdf)][[`blog`](https://shivamduggal4.github.io/tars-3D/)]
 
 ## Paper stack
 Computing Fourier Transforms and Convolutions on the 2-Sphere
@@ -25,6 +25,13 @@ J.R. Driscoll and D.M. Healy, Advances in Applied Mathematics 1994
 ## Past Meetings
 
 ### Spring 2025
+
+#### April 18
+Diffusion-LM Improves Controllable Text Generation
+\
+Xiang Lisa Li, et. al., Neurips 2022
+\
+[[`paper`](https://proceedings.neurips.cc/paper_files/paper/2022/file/1be5bc25d50895ee656b8c2d9eb89d6a-Paper-Conference.pdf)]
 
 #### April 11
 Vector products and pseudovectors
