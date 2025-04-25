@@ -8,12 +8,13 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### April 25
-Topologically-Aware Deformation Fields for Single-View 3D Reconstruction
+#### May 2
+Functional Maps: A Flexible Representation of Maps Between Shapes
 \
-Shivam Duggal and Deepak Pathak, CVPR 2022
+Ovsjanikov et al., ACM Transactions on Graphics 2012
 \
-[[`paper`](https://openaccess.thecvf.com/content/CVPR2022/papers/Duggal_Topologically-Aware_Deformation_Fields_for_Single-View_3D_Reconstruction_CVPR_2022_paper.pdf)][[`blog`](https://shivamduggal4.github.io/tars-3D/)]
+[[`paper`](https://dl.acm.org/doi/pdf/10.1145/2185520.2185526)]
+
 
 ## Paper stack
 Associating Uncertainty With Three-Dimensional Poses for Use in Estimation Problems
@@ -25,6 +26,13 @@ Timothy D. Barfoot and Paul T. Furgale, IEEE Transactions on Robotics 2014
 ## Past Meetings
 
 ### Spring 2025
+
+### April 25
+Topologically-Aware Deformation Fields for Single-View 3D Reconstruction
+\
+Shivam Duggal and Deepak Pathak, CVPR 2022
+\
+[[`paper`](https://openaccess.thecvf.com/content/CVPR2022/papers/Duggal_Topologically-Aware_Deformation_Fields_for_Single-View_3D_Reconstruction_CVPR_2022_paper.pdf)][[`blog`](https://shivamduggal4.github.io/tars-3D/)]
 
 #### April 18
 Diffusion-LM Improves Controllable Text Generation
