@@ -33,7 +33,7 @@ Tushar et al., Medical Image Analysis 2025
 
 ### Spring 2025
 
-### April 25
+#### April 25
 Topologically-Aware Deformation Fields for Single-View 3D Reconstruction
 \
 Shivam Duggal and Deepak Pathak, CVPR 2022
