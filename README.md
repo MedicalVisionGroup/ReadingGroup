@@ -23,6 +23,12 @@ Timothy D. Barfoot and Paul T. Furgale, IEEE Transactions on Robotics 2014
 \
 [[`paper`](https://ieeexplore.ieee.org/abstract/document/6727494)]
 
+Virtual lung screening trial (VLST): An in silico study inspired by the national lung screening trial for lung cancer detection
+\
+Tushar et al., Medical Image Analysis 2025
+\
+[[`paper`](https://www.sciencedirect.com/science/article/abs/pii/S1361841525001239)]
+
 ## Past Meetings
 
 ### Spring 2025
