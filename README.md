@@ -29,6 +29,13 @@ Tushar et al., Medical Image Analysis 2025
 \
 [[`paper`](https://www.sciencedirect.com/science/article/abs/pii/S1361841525001239)]
 
+Learning on Model Weights using Tree Experts
+\
+Horowitz et al., CVPR 2025
+\
+[[`paper`](https://arxiv.org/pdf/2410.13569)]
+[[`blog`](https://horwitz.ai/probex)]
+
 ## Past Meetings
 
 ### Spring 2025
