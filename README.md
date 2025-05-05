@@ -36,6 +36,12 @@ Horowitz et al., CVPR 2025
 [[`paper`](https://arxiv.org/pdf/2410.13569)]
 [[`blog`](https://horwitz.ai/probex)]
 
+Deep Learning in Medical Image Registration: Magic or Mirage?
+\
+Jena et al., NeurIPS 2025
+\
+[[`paper`](https://arxiv.org/abs/2408.05839)]
+
 ## Past Meetings
 
 ### Spring 2025
