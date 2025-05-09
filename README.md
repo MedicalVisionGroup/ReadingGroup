@@ -8,12 +8,13 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### May 2
-Functional Maps: A Flexible Representation of Maps Between Shapes
+#### May 16
+
+Deep Learning in Medical Image Registration: Magic or Mirage?
 \
-Ovsjanikov et al., ACM Transactions on Graphics 2012
+Jena et al., NeurIPS 2024
 \
-[[`paper`](https://dl.acm.org/doi/pdf/10.1145/2185520.2185526)]
+[[`paper`](https://arxiv.org/abs/2408.05839)]
 
 
 ## Paper stack
@@ -36,15 +37,16 @@ Horowitz et al., CVPR 2025
 [[`paper`](https://arxiv.org/pdf/2410.13569)]
 [[`blog`](https://horwitz.ai/probex)]
 
-Deep Learning in Medical Image Registration: Magic or Mirage?
-\
-Jena et al., NeurIPS 2025
-\
-[[`paper`](https://arxiv.org/abs/2408.05839)]
-
 ## Past Meetings
 
 ### Spring 2025
+
+#### May 2 & 9
+Functional Maps: A Flexible Representation of Maps Between Shapes
+\
+Ovsjanikov et al., ACM Transactions on Graphics 2012
+\
+[[`paper`](https://dl.acm.org/doi/pdf/10.1145/2185520.2185526)]
 
 #### April 25
 Topologically-Aware Deformation Fields for Single-View 3D Reconstruction
