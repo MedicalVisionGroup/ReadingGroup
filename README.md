@@ -8,13 +8,13 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### May 16
+### May 23
 
-Deep Learning in Medical Image Registration: Magic or Mirage?
+ConvexAdam: Self-Configuring Dual-Optimization-Based 3D Multitask Medical Image Registration
 \
-Jena et al., NeurIPS 2024
+Siebert et al., TMI 2024
 \
-[[`paper`](https://arxiv.org/abs/2408.05839)]
+[`paper`](https://ieeexplore.ieee.org/abstract/document/10681158)
 
 
 ## Paper stack
@@ -31,15 +31,18 @@ Horowitz et al., CVPR 2025
 [[`paper`](https://arxiv.org/pdf/2410.13569)]
 [[`blog`](https://horwitz.ai/probex)]
 
-ConvexAdam: Self-Configuring Dual-Optimization-Based 3D Multitask Medical Image Registration
-\
-Siebert et al., TMI 2024
-\
-[`paper`](https://ieeexplore.ieee.org/abstract/document/10681158)
 
 ## Past Meetings
 
 ### Spring 2025
+
+#### May 16
+
+Deep Learning in Medical Image Registration: Magic or Mirage?
+\
+Jena et al., NeurIPS 2024
+\
+[[`paper`](https://arxiv.org/abs/2408.05839)]
 
 #### May 2 & 9
 Functional Maps: A Flexible Representation of Maps Between Shapes
