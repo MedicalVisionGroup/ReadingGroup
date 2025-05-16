@@ -14,7 +14,7 @@ ConvexAdam: Self-Configuring Dual-Optimization-Based 3D Multitask Medical Image 
 \
 Siebert et al., TMI 2024
 \
-[`paper`](https://ieeexplore.ieee.org/abstract/document/10681158)
+[[`paper`](https://ieeexplore.ieee.org/abstract/document/10681158)]
 
 
 ## Paper stack
