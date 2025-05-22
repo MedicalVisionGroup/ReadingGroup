@@ -18,11 +18,11 @@ Siebert et al., TMI 2024
 
 
 ## Paper stack
-Associating Uncertainty With Three-Dimensional Poses for Use in Estimation Problems
+Sign and Basis Invariant Networks for Spectral Graph Representation Learning
 \
-Timothy D. Barfoot and Paul T. Furgale, IEEE Transactions on Robotics 2014
+Lim, Robinson, Zhao, Smidt, Sra, Maron, Jegelka, ICLR 2023
 \
-[[`paper`](https://ieeexplore.ieee.org/abstract/document/6727494)]
+[[`paper`](https://arxiv.org/abs/2202.13013)]
 
 Learning on Model Weights using Tree Experts
 \
@@ -30,7 +30,6 @@ Horowitz et al., CVPR 2025
 \
 [[`paper`](https://arxiv.org/pdf/2410.13569)]
 [[`blog`](https://horwitz.ai/probex)]
-
 
 ## Past Meetings
 
