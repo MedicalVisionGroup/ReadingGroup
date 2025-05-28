@@ -8,13 +8,13 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-### May 23
-
-ConvexAdam: Self-Configuring Dual-Optimization-Based 3D Multitask Medical Image Registration
+### May 30
+Learning on Model Weights using Tree Experts
 \
-Siebert et al., TMI 2024
+Horowitz et al., CVPR 2025
 \
-[[`paper`](https://ieeexplore.ieee.org/abstract/document/10681158)]
+[[`paper`](https://arxiv.org/pdf/2410.13569)]
+[[`blog`](https://horwitz.ai/probex)]
 
 
 ## Paper stack
@@ -24,19 +24,18 @@ Lim, Robinson, Zhao, Smidt, Sra, Maron, Jegelka, ICLR 2023
 \
 [[`paper`](https://arxiv.org/abs/2202.13013)]
 
-Learning on Model Weights using Tree Experts
-\
-Horowitz et al., CVPR 2025
-\
-[[`paper`](https://arxiv.org/pdf/2410.13569)]
-[[`blog`](https://horwitz.ai/probex)]
-
 ## Past Meetings
 
 ### Spring 2025
 
-#### May 16
+### May 23
+ConvexAdam: Self-Configuring Dual-Optimization-Based 3D Multitask Medical Image Registration
+\
+Siebert et al., TMI 2024
+\
+[[`paper`](https://ieeexplore.ieee.org/abstract/document/10681158)]
 
+#### May 16
 Deep Learning in Medical Image Registration: Magic or Mirage?
 \
 Jena et al., NeurIPS 2024
