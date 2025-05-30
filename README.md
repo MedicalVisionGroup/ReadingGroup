@@ -26,7 +26,7 @@ Horowitz et al., ICLR 2025
 
 ### Spring 2025
 
-### May 30
+#### May 30
 Learning on Model Weights using Tree Experts
 \
 Horowitz et al., CVPR 2025
@@ -34,7 +34,7 @@ Horowitz et al., CVPR 2025
 [[`paper`](https://arxiv.org/pdf/2410.13569)]
 [[`blog`](https://horwitz.ai/probex)]
 
-### May 23
+#### May 23
 ConvexAdam: Self-Configuring Dual-Optimization-Based 3D Multitask Medical Image Registration
 \
 Siebert et al., TMI 2024
