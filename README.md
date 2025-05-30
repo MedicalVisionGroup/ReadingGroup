@@ -34,7 +34,6 @@ SUFFICIENT: A scan-specific unsupervised deep learning framework for high-resolu
 Wu et al
 \
 [[`paper`](https://www.arxiv.org/abs/2505.17472)]
-\
 
 
 
