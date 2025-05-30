@@ -31,7 +31,7 @@ nU-Net: a self-configuring method for deep learning-based biomedical image segme
 \
 Isensee et al., Nature Methods 2020
 \
-[[`paper`]([https://arxiv.org/pdf/2410.13569](https://www.nature.com/articles/s41592-020-01008-z])]
+[[`paper`](https://www.nature.com/articles/s41592-020-01008-z)]
 
 
 
