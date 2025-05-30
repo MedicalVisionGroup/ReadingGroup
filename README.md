@@ -8,14 +8,6 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-### May 30
-Learning on Model Weights using Tree Experts
-\
-Horowitz et al., CVPR 2025
-\
-[[`paper`](https://arxiv.org/pdf/2410.13569)]
-[[`blog`](https://horwitz.ai/probex)]
-
 
 ## Paper stack
 Sign and Basis Invariant Networks for Spectral Graph Representation Learning
@@ -24,9 +16,23 @@ Lim, Robinson, Zhao, Smidt, Sra, Maron, Jegelka, ICLR 2023
 \
 [[`paper`](https://arxiv.org/abs/2202.13013)]
 
+Unsupervised Model Tree Heritage Recovery
+\
+Horowitz et al., ICLR 2025
+\
+[[`paper`](https://arxiv.org/pdf/2405.18432)]
+
 ## Past Meetings
 
 ### Spring 2025
+
+### May 30
+Learning on Model Weights using Tree Experts
+\
+Horowitz et al., CVPR 2025
+\
+[[`paper`](https://arxiv.org/pdf/2410.13569)]
+[[`blog`](https://horwitz.ai/probex)]
 
 ### May 23
 ConvexAdam: Self-Configuring Dual-Optimization-Based 3D Multitask Medical Image Registration
