@@ -8,34 +8,24 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### June 13
-nU-Net: a self-configuring method for deep learning-based biomedical image segmentation
-\
-Isensee et al., Nature Methods 2020
-\
-[[`paper`](https://www.nature.com/articles/s41592-020-01008-z)]
-
-
 #### June 20 - prioritize first two papers
 Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations
 \
-Dannecker et al
+Dannecker et al, arXiv
 \
 [[`paper`](https://www.arxiv.org/abs/2505.09565)]
-\
+
 SVRMamba: Slice-to-Volume Reconstruction from Multiple MRI Stacks with Slice Sequence Guided Mamba
 \
 Wu et al, AAAI Conference
 \
 [[`paper`](https://ojs.aaai.org/index.php/AAAI/article/view/32907)]
-\
+
 SUFFICIENT: A scan-specific unsupervised deep learning framework for high-resolution 3D isotropic fetal brain MRI reconstruction
 \
-Wu et al
+Wu et al, arXiv
 \
 [[`paper`](https://www.arxiv.org/abs/2505.17472)]
-
-
 
 ## Paper stack
 Sign and Basis Invariant Networks for Spectral Graph Representation Learning
@@ -54,9 +44,12 @@ Horowitz et al., ICLR 2025
 
 ### Spring 2025
 
-
-
-
+#### June 13
+nU-Net: a self-configuring method for deep learning-based biomedical image segmentation
+\
+Isensee et al., Nature Methods 2020
+\
+[[`paper`](https://www.nature.com/articles/s41592-020-01008-z)]
 
 #### May 30
 Learning on Model Weights using Tree Experts
