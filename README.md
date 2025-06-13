@@ -8,12 +8,15 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### June 20 - prioritize first two papers
-Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations
+#### June 20 - prioritize first paper, will discuss both if have time
+
+
+Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI
 \
-Dannecker et al, arXiv
+Young et al, CVPR 2024
 \
-[[`paper`](https://www.arxiv.org/abs/2505.09565)]
+[[`paper`](https://arxiv.org/abs/2312.03102)]
+
 
 SVRMamba: Slice-to-Volume Reconstruction from Multiple MRI Stacks with Slice Sequence Guided Mamba
 \
@@ -21,13 +24,23 @@ Wu et al, AAAI Conference
 \
 [[`paper`](https://ojs.aaai.org/index.php/AAAI/article/view/32907)]
 
+
+
+## Paper stack
+
+Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations
+\
+Dannecker et al, arXiv
+\
+[[`paper`](https://www.arxiv.org/abs/2505.09565)]
+
 SUFFICIENT: A scan-specific unsupervised deep learning framework for high-resolution 3D isotropic fetal brain MRI reconstruction
 \
 Wu et al, arXiv
 \
 [[`paper`](https://www.arxiv.org/abs/2505.17472)]
 
-## Paper stack
+
 Sign and Basis Invariant Networks for Spectral Graph Representation Learning
 \
 Lim, Robinson, Zhao, Smidt, Sra, Maron, Jegelka, ICLR 2023
