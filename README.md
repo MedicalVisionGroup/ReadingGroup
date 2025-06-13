@@ -1,6 +1,6 @@
 # Polina's Reading Group
 
-We meet on Thursdays 11:00-12:30pm in 32-D407.
+We meet on Fridays 11:00-12:30pm in 32-D407.
 
 - To join the reading group, feel free to subscribe to the [`v-golland` mailing list at CSAIL](https://lists.csail.mit.edu/mailman/listinfo/v-golland).
 - To get write access to the wiki, please contact Vivek Gopalakrishnan at `vivekg at csail.mit.edu`.
@@ -8,7 +8,7 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### June 19 - prioritize first paper, will discuss both if have time
+#### June 20 - prioritize first paper, will discuss both if have time
 
 
 Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI
