@@ -8,7 +8,7 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### June 26 - prioritize first paper, will discuss both if have time
+#### June 26 
 
 
 Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI
