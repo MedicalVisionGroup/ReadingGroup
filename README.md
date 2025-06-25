@@ -11,11 +11,7 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 #### June 26 
 
 
-Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI
-\
-Young et al, CVPR 2024
-\
-[[`paper`](https://arxiv.org/abs/2312.03102)]
+
 
 SUFFICIENT: A scan-specific unsupervised deep learning framework for high-resolution 3D isotropic fetal brain MRI reconstruction
 \
@@ -39,6 +35,12 @@ Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit N
 Dannecker et al, arXiv
 \
 [[`paper`](https://www.arxiv.org/abs/2505.09565)]
+
+Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI
+\
+Young et al, CVPR 2024
+\
+[[`paper`](https://arxiv.org/abs/2312.03102)]
 
 
 Sign and Basis Invariant Networks for Spectral Graph Representation Learning
