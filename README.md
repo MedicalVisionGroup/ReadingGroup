@@ -8,16 +8,19 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### June 26 
+#### July 3
 
-
-
-
-SUFFICIENT: A scan-specific unsupervised deep learning framework for high-resolution 3D isotropic fetal brain MRI reconstruction
+Sparse MRI: The application of compressed sensing for rapid MR imaging
 \
-Wu et al, arXiv
+Lustig et al, MRM
 \
-[[`paper`](https://www.arxiv.org/abs/2505.17472)]
+[[`paper`](https://ojs.aaai.org/index.php/AAAI/article/view/32907](https://onlinelibrary.wiley.com/doi/10.1002/mrm.21391))]
+
+Compressed Sensing MRI
+\
+Lustig et al, IEEE Signal Processing Magazine
+\
+[[`paper`](https://ieeexplore.ieee.org/document/4472246)]
 
 
 ## Paper stack
@@ -58,6 +61,15 @@ Horowitz et al., ICLR 2025
 ## Past Meetings
 
 ### Spring 2025
+
+#### June 26
+
+SUFFICIENT: A scan-specific unsupervised deep learning framework for high-resolution 3D isotropic fetal brain MRI reconstruction
+\
+Wu et al, arXiv
+\
+[[`paper`](https://www.arxiv.org/abs/2505.17472)]
+
 
 #### June 20 
 
