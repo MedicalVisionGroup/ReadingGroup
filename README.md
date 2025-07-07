@@ -48,7 +48,7 @@ Young et al, CVPR 2024
 
 Sign and Basis Invariant Networks for Spectral Graph Representation Learning
 \
-Lim, Robinson, Zhao, Smidt, Sra, Maron, Jegelka, ICLR 2023
+Lim et al., ICLR 2023
 \
 [[`paper`](https://arxiv.org/abs/2202.13013)]
 
@@ -57,6 +57,18 @@ Unsupervised Model Tree Heritage Recovery
 Horowitz et al., ICLR 2025
 \
 [[`paper`](https://arxiv.org/pdf/2405.18432)]
+
+Deformable Convolutional Networks
+\
+Dai et al., ICCV 2017
+\
+[[`paper`](https://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_Deformable_Convolutional_Networks_ICCV_2017_paper.pdf)]
+
+Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges
+\
+Bronstein et al., arXiV
+\
+[[`paper`](https://arxiv.org/abs/2104.13478)]
 
 ## Past Meetings
 
