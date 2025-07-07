@@ -45,13 +45,6 @@ Young et al, CVPR 2024
 \
 [[`paper`](https://arxiv.org/abs/2312.03102)]
 
-
-Sign and Basis Invariant Networks for Spectral Graph Representation Learning
-\
-Lim et al., ICLR 2023
-\
-[[`paper`](https://arxiv.org/abs/2202.13013)]
-
 Unsupervised Model Tree Heritage Recovery
 \
 Horowitz et al., ICLR 2025
