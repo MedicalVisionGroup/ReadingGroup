@@ -8,13 +8,15 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### July 17
+#### July 31
 
-Deformable Convolutional Networks
+Interpreting and Improving Diffusion Models from an Optimization Perspective
 \
-Dai et al., ICCV 2017
+Permenter and Yuan, ICML 2024
 \
-[[`paper`](https://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_Deformable_Convolutional_Networks_ICCV_2017_paper.pdf)]
+[[`paper`](https://proceedings.mlr.press/v235/permenter24a.html)]
+[[`blog`](https://www.chenyang.co/diffusion.html)]
+[[`slides`](https://www.chenyang.co/assets/pdfs/diffusion_presentation_06_14.pdf)]
 
 ## Paper stack
 
@@ -53,6 +55,14 @@ Bronstein et al., arXiV
 ## Past Meetings
 
 ### Spring 2025
+
+#### July 17
+
+Deformable Convolutional Networks
+\
+Dai et al., ICCV 2017
+\
+[[`paper`](https://openaccess.thecvf.com/content_ICCV_2017/papers/Dai_Deformable_Convolutional_Networks_ICCV_2017_paper.pdf)]
 
 #### July 3
 
