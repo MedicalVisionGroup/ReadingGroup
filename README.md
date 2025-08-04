@@ -8,15 +8,12 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### July 31
-
-Interpreting and Improving Diffusion Models from an Optimization Perspective
+#### August 7
+Dynamic Chunking for End-to-End Hierarchical Sequence Modeling
 \
-Permenter and Yuan, ICML 2024
+Hwang, Wang, and Gu, 2025
 \
-[[`paper`](https://proceedings.mlr.press/v235/permenter24a.html)]
-[[`blog`](https://www.chenyang.co/diffusion.html)]
-[[`slides`](https://www.chenyang.co/assets/pdfs/diffusion_presentation_06_14.pdf)]
+[[`paper`](https://arxiv.org/pdf/2507.07955)]
 
 ## Paper stack
 
@@ -25,8 +22,6 @@ SVRMamba: Slice-to-Volume Reconstruction from Multiple MRI Stacks with Slice Seq
 Wu et al, AAAI Conference
 \
 [[`paper`](https://ojs.aaai.org/index.php/AAAI/article/view/32907)]
-
-
 
 Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations
 \
@@ -55,6 +50,16 @@ Bronstein et al., arXiV
 ## Past Meetings
 
 ### Spring 2025
+
+#### July 31
+
+Interpreting and Improving Diffusion Models from an Optimization Perspective
+\
+Permenter and Yuan, ICML 2024
+\
+[[`paper`](https://proceedings.mlr.press/v235/permenter24a.html)]
+[[`blog`](https://www.chenyang.co/diffusion.html)]
+[[`slides`](https://www.chenyang.co/assets/pdfs/diffusion_presentation_06_14.pdf)]
 
 #### July 17
 
