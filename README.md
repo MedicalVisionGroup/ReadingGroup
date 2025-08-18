@@ -15,6 +15,7 @@ Young et al., 2024
 \
 [[`paper`](https://arxiv.org/abs/2312.03102)]
 \ *Focus on the mathematical preliminaries, especially Section 3.1.
+\
 CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data\
 Xu et al., 2024
 \
