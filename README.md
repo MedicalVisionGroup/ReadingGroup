@@ -9,11 +9,17 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 ## Next meeting
 
 #### August 7
-Dynamic Chunking for End-to-End Hierarchical Sequence Modeling
+Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI
 \
-Hwang, Wang, and Gu, 2025
+Young et al., 2024
 \
-[[`paper`](https://arxiv.org/pdf/2507.07955)]
+[[`paper`](https://arxiv.org/abs/2312.03102)]
+\ *Focus on the mathematical preliminaries, especially Section 3.1.
+CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data\
+Xu et al., 2024
+\
+[[`paper`](https://arxiv.org/abs/2404.04878)]
+
 
 ## Paper stack
 
@@ -50,6 +56,13 @@ Bronstein et al., arXiV
 ## Past Meetings
 
 ### Spring 2025
+
+#### August 7
+Dynamic Chunking for End-to-End Hierarchical Sequence Modeling
+\
+Hwang, Wang, and Gu, 2025
+\
+[[`paper`](https://arxiv.org/pdf/2507.07955)]
 
 #### July 31
 
