@@ -8,17 +8,15 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### August 7
-Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI
-\
-Young et al., 2024
-\
+#### August 21
+Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI \
+Young et al., 2024 \
 [[`paper`](https://arxiv.org/abs/2312.03102)]
-\ *Focus on the mathematical preliminaries, especially Section 3.1.
-\
-CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data\
-Xu et al., 2024
-\
+
+> *Focus on the mathematical preliminaries, especially Section 3.1.*
+
+CycleINR: Cycle Implicit Neural Representation for Arbitrary-Scale Volumetric Super-Resolution of Medical Data \
+Xu et al., 2024 \
 [[`paper`](https://arxiv.org/abs/2404.04878)]
 
 
