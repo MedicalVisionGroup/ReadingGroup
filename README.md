@@ -35,12 +35,6 @@ Dannecker et al, arXiv
 \
 [[`paper`](https://www.arxiv.org/abs/2505.09565)]
 
-Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI
-\
-Young et al, CVPR 2024
-\
-[[`paper`](https://arxiv.org/abs/2312.03102)]
-
 Unsupervised Model Tree Heritage Recovery
 \
 Horowitz et al., ICLR 2025
