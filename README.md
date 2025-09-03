@@ -8,10 +8,12 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### August 28
-Emerging Properties in Self-Supervised Vision Transformers \
-Caron et al., 2021 \
-[[`paper`](https://arxiv.org/abs/2104.14294)]
+#### September 4
+Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges
+\
+Bronstein et al., arXiV
+\
+[[`paper`](https://arxiv.org/abs/2104.13478)]
 
 ## Paper stack
 
@@ -45,15 +47,14 @@ Horowitz et al., ICLR 2025
 \
 [[`paper`](https://arxiv.org/pdf/2405.18432)]
 
-Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges
-\
-Bronstein et al., arXiV
-\
-[[`paper`](https://arxiv.org/abs/2104.13478)]
-
 ## Past Meetings
 
 ### Spring 2025
+
+#### August 28
+Emerging Properties in Self-Supervised Vision Transformers \
+Caron et al., 2021 \
+[[`paper`](https://arxiv.org/abs/2104.14294)]
 
 #### August 21
 Fully Convolutional Slice-to-Volume Reconstruction for Single-Stack MRI \
