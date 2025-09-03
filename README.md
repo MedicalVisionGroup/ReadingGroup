@@ -23,23 +23,11 @@ Feng et al., CVPR 2025
 \
 [[`paper`](https://openaccess.thecvf.com/content/CVPR2025/html/Feng_Gaussian_Splashing_Unified_Particles_for_Versatile_Motion_Synthesis_and_Rendering_CVPR_2025_paper.html)]
 
-SVRMamba: Slice-to-Volume Reconstruction from Multiple MRI Stacks with Slice Sequence Guided Mamba
-\
-Wu et al, AAAI Conference
-\
-[[`paper`](https://ojs.aaai.org/index.php/AAAI/article/view/32907)]
-
 Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations
 \
 Dannecker et al, arXiv
 \
 [[`paper`](https://www.arxiv.org/abs/2505.09565)]
-
-Unsupervised Model Tree Heritage Recovery
-\
-Horowitz et al., ICLR 2025
-\
-[[`paper`](https://arxiv.org/pdf/2405.18432)]
 
 ## Past Meetings
 
