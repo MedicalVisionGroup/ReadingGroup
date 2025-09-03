@@ -15,6 +15,12 @@ Caron et al., 2021 \
 
 ## Paper stack
 
+Gaussian Splashing: Unified Particles for Versatile Motion Synthesis and Rendering
+\
+Feng et al., CVPR 2025
+\
+[[`paper`](https://openaccess.thecvf.com/content/CVPR2025/html/Feng_Gaussian_Splashing_Unified_Particles_for_Versatile_Motion_Synthesis_and_Rendering_CVPR_2025_paper.html)]
+
 SVRMamba: Slice-to-Volume Reconstruction from Multiple MRI Stacks with Slice Sequence Guided Mamba
 \
 Wu et al, AAAI Conference
