@@ -32,6 +32,7 @@ Dannecker et al, arXiv
 Fourier Neural Operator for Parametric Partial Differential Equations
 \
 Zongyi Li et el., ICLR 2021
+\
 [[`paper`](https://arxiv.org/pdf/2010.08895)]
 
 ## Past Meetings
