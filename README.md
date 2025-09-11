@@ -8,8 +8,8 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### September 4
-Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges
+#### September 12
+Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges (Chapter 4.1-4.3)
 \
 Bronstein et al., arXiV
 \
@@ -38,6 +38,13 @@ Zongyi Li et al., ICLR 2021
 ## Past Meetings
 
 ### Spring 2025
+
+#### September 4
+Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges (Chapter 3)
+\
+Bronstein et al., arXiV
+\
+[[`paper`](https://arxiv.org/abs/2104.13478)]
 
 #### August 28
 Emerging Properties in Self-Supervised Vision Transformers \
