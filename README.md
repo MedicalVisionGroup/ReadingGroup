@@ -35,6 +35,12 @@ Zongyi Li et al., ICLR 2021
 \
 [[`paper`](https://arxiv.org/pdf/2010.08895)]
 
+Contrastive Learning with Hard Negative Samples
+\
+Robinson et al., ICLR 2021
+\
+[[`paper`](https://arxiv.org/abs/2010.04592)]
+
 ## Past Meetings
 
 ### Spring 2025
