@@ -41,6 +41,20 @@ Robinson et al., ICLR 2021
 \
 [[`paper`](https://arxiv.org/abs/2010.04592)]
 
+### Interesting MICCAI 2025 Papers
+
+Reverse Imaging for Wide-spectrum Generalization of Cardiac MRI Segmentation
+\
+Zhao et al., MICCAI 2025
+\
+[[`paper`](https://arxiv.org/pdf/2508.21254)]
+
+Resolving the Overlap of Macrovascular and Microvascular Flow Components in Digital Subtraction Angiography for Cerebral Reperfusion Assessment
+\
+Wu et al., MICCAI 2025
+\
+[[`paper`](https://papers.miccai.org/miccai-2025/paper/5026_paper.pdf)]
+
 ## Past Meetings
 
 ### Spring 2025
