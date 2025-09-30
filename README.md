@@ -65,7 +65,7 @@ PRADA: Protecting and Detecting Dataset Abuse for Open-source Medical Dataset
 \
 Jang et al., MICCAI 2025
 \
-[[`paper`]([https://arxiv.org/abs/2509.23165v1](https://papers.miccai.org/miccai-2025/paper/2265_paper.pdf))]
+[[`paper`](https://papers.miccai.org/miccai-2025/paper/2265_paper.pdf)]
 
 ## Past Meetings
 
