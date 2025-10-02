@@ -8,12 +8,13 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### September 19
-Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges (Chapter 4.3-4.4)
+
+#### October 3
+Contrastive Learning with Hard Negative Samples
 \
-Bronstein et al., arXiV
+Robinson et al., ICLR 2021
 \
-[[`paper`](https://arxiv.org/abs/2104.13478)]
+[[`paper`](https://arxiv.org/abs/2010.04592)]
 
 ## Paper stack
 
@@ -34,12 +35,6 @@ Fourier Neural Operator for Parametric Partial Differential Equations
 Zongyi Li et al., ICLR 2021
 \
 [[`paper`](https://arxiv.org/pdf/2010.08895)]
-
-Contrastive Learning with Hard Negative Samples
-\
-Robinson et al., ICLR 2021
-\
-[[`paper`](https://arxiv.org/abs/2010.04592)]
 
 ### Interesting MICCAI 2025 Papers
 
