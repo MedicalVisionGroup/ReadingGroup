@@ -8,27 +8,14 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-
-#### October 3
-Contrastive Learning with Hard Negative Samples
-\
-Robinson et al., ICLR 2021
-\
-[[`paper`](https://arxiv.org/abs/2010.04592)]
-
-## Paper stack
-
+#### October 10
 Gaussian Splashing: Unified Particles for Versatile Motion Synthesis and Rendering
 \
 Feng et al., CVPR 2025
 \
 [[`paper`](https://openaccess.thecvf.com/content/CVPR2025/html/Feng_Gaussian_Splashing_Unified_Particles_for_Versatile_Motion_Synthesis_and_Rendering_CVPR_2025_paper.html)]
 
-Meta-learning Slice-to-Volume Reconstruction in Fetal Brain MRI using Implicit Neural Representations
-\
-Dannecker et al, arXiv
-\
-[[`paper`](https://www.arxiv.org/abs/2505.09565)]
+## Paper stack
 
 Fourier Neural Operator for Parametric Partial Differential Equations
 \
@@ -64,7 +51,21 @@ Jang et al., MICCAI 2025
 
 ## Past Meetings
 
-### Spring 2025
+### Fall 2025
+
+#### October 3
+Contrastive Learning with Hard Negative Samples
+\
+Robinson et al., ICLR 2021
+\
+[[`paper`](https://arxiv.org/abs/2010.04592)]
+
+#### September 19
+Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges (Chapter 4.3-4.4)
+\
+Bronstein et al., arXiV
+\
+[[`paper`](https://arxiv.org/abs/2104.13478)]
 
 #### September 12
 Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges (Chapter 4.1-4.2)
@@ -79,6 +80,8 @@ Geometric Deep Learning: Grids, Groups, Graphs, Geodesics, and Gauges (Chapter 3
 Bronstein et al., arXiV
 \
 [[`paper`](https://arxiv.org/abs/2104.13478)]
+
+### Summer 2025
 
 #### August 28
 Emerging Properties in Self-Supervised Vision Transformers \
@@ -160,6 +163,8 @@ nU-Net: a self-configuring method for deep learning-based biomedical image segme
 Isensee et al., Nature Methods 2020
 \
 [[`paper`](https://www.nature.com/articles/s41592-020-01008-z)]
+
+### Spring 2025
 
 #### May 30
 Learning on Model Weights using Tree Experts
