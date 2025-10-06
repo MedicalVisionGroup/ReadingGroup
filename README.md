@@ -49,6 +49,12 @@ Jang et al., MICCAI 2025
 \
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2265_paper.pdf)]
 
+Multi-Linear 3D Craniofacial Infant Shape Model
+\
+T. Schnabel et al., MICCAI 2025
+\ 
+[[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
+
 ## Past Meetings
 
 ### Fall 2025
