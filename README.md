@@ -23,6 +23,12 @@ Zongyi Li et al., ICLR 2021
 \
 [[`paper`](https://arxiv.org/pdf/2010.08895)]
 
+Nonrigid registration using free-form deformations: application to breast MR images
+\
+Daniel Rueckert et al., IEEE TMI 1999
+\
+[[`paper`](https://ieeexplore.ieee.org/document/796284)]
+
 ### Interesting MICCAI 2025 Papers
 
 Reverse Imaging for Wide-spectrum Generalization of Cardiac MRI Segmentation
