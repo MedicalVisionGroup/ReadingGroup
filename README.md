@@ -8,12 +8,12 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### October 10
-Gaussian Splashing: Unified Particles for Versatile Motion Synthesis and Rendering
+#### October 24
+SimCVD: Simple Contrastive Voxel-Wise Representation Distillation for Semi-Supervised Medical Image Segmentation
 \
-Feng et al., CVPR 2025
+You et al., IEEE TMI 2022
 \
-[[`paper`](https://openaccess.thecvf.com/content/CVPR2025/html/Feng_Gaussian_Splashing_Unified_Particles_for_Versatile_Motion_Synthesis_and_Rendering_CVPR_2025_paper.html)]
+[[`paper`](https://arxiv.org/abs/2108.06227)]
 
 ## Paper stack
 
@@ -64,6 +64,13 @@ T. Schnabel et al., MICCAI 2025
 ## Past Meetings
 
 ### Fall 2025
+
+#### October 10
+Gaussian Splashing: Unified Particles for Versatile Motion Synthesis and Rendering
+\
+Feng et al., CVPR 2025
+\
+[[`paper`](https://openaccess.thecvf.com/content/CVPR2025/html/Feng_Gaussian_Splashing_Unified_Particles_for_Versatile_Motion_Synthesis_and_Rendering_CVPR_2025_paper.html)]
 
 #### October 3
 Contrastive Learning with Hard Negative Samples
