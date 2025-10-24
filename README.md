@@ -8,12 +8,19 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### October 24
-SimCVD: Simple Contrastive Voxel-Wise Representation Distillation for Semi-Supervised Medical Image Segmentation
+#### October 31
+
+Resolving the Overlap of Macrovascular and Microvascular Flow Components in Digital Subtraction Angiography for Cerebral Reperfusion Assessment
 \
-You et al., IEEE TMI 2022
+Wu et al., MICCAI 2025
 \
-[[`paper`](https://arxiv.org/abs/2108.06227)]
+[[`paper`](https://papers.miccai.org/miccai-2025/paper/5026_paper.pdf)]
+
+Untangling Vascular Trees for Surgery and Interventional Radiology
+\
+Houry et al., MICCAI 2025
+\
+[[`paper`](https://arxiv.org/abs/2509.23165v1)]
 
 ## Paper stack
 
@@ -37,18 +44,6 @@ Zhao et al., MICCAI 2025
 \
 [[`paper`](https://arxiv.org/pdf/2508.21254)]
 
-Resolving the Overlap of Macrovascular and Microvascular Flow Components in Digital Subtraction Angiography for Cerebral Reperfusion Assessment
-\
-Wu et al., MICCAI 2025
-\
-[[`paper`](https://papers.miccai.org/miccai-2025/paper/5026_paper.pdf)]
-
-Untangling Vascular Trees for Surgery and Interventional Radiology
-\
-Houry et al., MICCAI 2025
-\
-[[`paper`](https://arxiv.org/abs/2509.23165v1)]
-
 PRADA: Protecting and Detecting Dataset Abuse for Open-source Medical Dataset
 \
 Jang et al., MICCAI 2025
@@ -64,6 +59,13 @@ T. Schnabel et al., MICCAI 2025
 ## Past Meetings
 
 ### Fall 2025
+
+#### October 24
+SimCVD: Simple Contrastive Voxel-Wise Representation Distillation for Semi-Supervised Medical Image Segmentation
+\
+You et al., IEEE TMI 2022
+\
+[[`paper`](https://arxiv.org/abs/2108.06227)]
 
 #### October 10
 Gaussian Splashing: Unified Particles for Versatile Motion Synthesis and Rendering
