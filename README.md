@@ -20,7 +20,7 @@ Untangling Vascular Trees for Surgery and Interventional Radiology
 \
 Houry et al., MICCAI 2025
 \
-[[`paper`](https://arxiv.org/abs/2509.23165v1)]
+[[`paper`](https://papers.miccai.org/miccai-2025/paper/4231_paper.pdf)]
 
 ## Paper stack
 
