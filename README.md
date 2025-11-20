@@ -8,13 +8,7 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### October 31
-
-Resolving the Overlap of Macrovascular and Microvascular Flow Components in Digital Subtraction Angiography for Cerebral Reperfusion Assessment
-\
-Wu et al., MICCAI 2025
-\
-[[`paper`](https://papers.miccai.org/miccai-2025/paper/5026_paper.pdf)]
+#### November 21
 
 Untangling Vascular Trees for Surgery and Interventional Radiology
 \
@@ -59,6 +53,14 @@ T. Schnabel et al., MICCAI 2025
 ## Past Meetings
 
 ### Fall 2025
+
+#### October 31
+
+Resolving the Overlap of Macrovascular and Microvascular Flow Components in Digital Subtraction Angiography for Cerebral Reperfusion Assessment
+\
+Wu et al., MICCAI 2025
+\
+[[`paper`](https://papers.miccai.org/miccai-2025/paper/5026_paper.pdf)]
 
 #### October 24
 SimCVD: Simple Contrastive Voxel-Wise Representation Distillation for Semi-Supervised Medical Image Segmentation
