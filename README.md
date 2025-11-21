@@ -8,13 +8,19 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### November 21
+#### December 12
 
-Untangling Vascular Trees for Surgery and Interventional Radiology
+Learning to Exploit Temporal Structure for Biomedical Vision-Language Processing
 \
-Houry et al., MICCAI 2025
+Bannur et al.
 \
-[[`paper`](https://papers.miccai.org/miccai-2025/paper/4231_paper.pdf)]
+[[`paper`](https://arxiv.org/abs/2301.04558)]
+
+MAIRA-2: Grounded Radiology Report Generation
+\
+Bannur et al.
+\
+[[`paper`](https://arxiv.org/abs/2406.04449)]
 
 ## Paper stack
 
@@ -53,6 +59,14 @@ T. Schnabel et al., MICCAI 2025
 ## Past Meetings
 
 ### Fall 2025
+
+#### November 21
+
+Untangling Vascular Trees for Surgery and Interventional Radiology
+\
+Houry et al., MICCAI 2025
+\
+[[`paper`](https://papers.miccai.org/miccai-2025/paper/4231_paper.pdf)]
 
 #### October 31
 
