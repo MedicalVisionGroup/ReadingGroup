@@ -30,11 +30,11 @@ Zongyi Li et al., ICLR 2021
 \
 [[`paper`](https://arxiv.org/pdf/2010.08895)]
 
-Nonrigid registration using free-form deformations: application to breast MR images
+Computing Large Deformation Metric Mappings via Geodesic Flows of Diffeomorphisms
 \
-Daniel Rueckert et al., IEEE TMI 1999
+M. Faisal Beg at al., Int. J. Computer Vision 2005
 \
-[[`paper`](https://ieeexplore.ieee.org/document/796284)]
+[[`paper`](https://link.springer.com/article/10.1023/B:VISI.0000043755.93987.aa)]
 
 ### Interesting MICCAI 2025 Papers
 
