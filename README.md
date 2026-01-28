@@ -8,13 +8,14 @@ We meet on Thursdays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### January 22
+#### January 29
+Correlated Proxies: A New Definition and Improved Mitigation for Reward Hacking
+\
+Laidlaw et al.
+\
+[[`paper`](https://arxiv.org/abs/2403.03185)]
 
-MAIRA-Seg: Enhancing Radiology Report Generation with Segmentation-Aware Multimodal Large Language Models
-\
-Sharma et al.
-\
-[[`paper`](https://arxiv.org/abs/2411.11362)]
+
 
 ## Paper stack
 
@@ -51,6 +52,14 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### January 22
+
+MAIRA-Seg: Enhancing Radiology Report Generation with Segmentation-Aware Multimodal Large Language Models
+\
+Sharma et al.
+\
+[[`paper`](https://arxiv.org/abs/2411.11362)]
 
 #### January 15
 
