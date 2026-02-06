@@ -8,14 +8,13 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### January 29
-Correlated Proxies: A New Definition and Improved Mitigation for Reward Hacking
-\
-Laidlaw et al.
-\
-[[`paper`](https://arxiv.org/abs/2403.03185)]
+#### February 13
 
-
+Discovering Hidden Physics Behind Transport Dynamics
+\
+Lie et al., CVPR 2021
+\
+[[`paper`](https://arxiv.org/abs/2011.12222)]
 
 ## Paper stack
 
@@ -52,6 +51,13 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### January 29
+Correlated Proxies: A New Definition and Improved Mitigation for Reward Hacking
+\
+Laidlaw et al.
+\
+[[`paper`](https://arxiv.org/abs/2403.03185)]
 
 #### January 22
 
