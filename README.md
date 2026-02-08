@@ -12,7 +12,7 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 Discovering Hidden Physics Behind Transport Dynamics
 \
-Lie et al., CVPR 2021
+Liu et al., CVPR 2021
 \
 [[`paper`](https://arxiv.org/abs/2011.12222)]
 
