@@ -8,13 +8,13 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### February 13
+#### February 20
 
-Discovering Hidden Physics Behind Transport Dynamics
+Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders
 \
-Liu et al., CVPR 2021
+Kumar and Patel, 2026
 \
-[[`paper`](https://arxiv.org/abs/2011.12222)]
+[[`paper`](https://arxiv.org/abs/2602.10099)]
 
 ## Paper stack
 
@@ -51,6 +51,14 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### February 13
+
+Discovering Hidden Physics Behind Transport Dynamics
+\
+Liu et al., CVPR 2021
+\
+[[`paper`](https://arxiv.org/abs/2011.12222)]
 
 #### January 29
 Correlated Proxies: A New Definition and Improved Mitigation for Reward Hacking
