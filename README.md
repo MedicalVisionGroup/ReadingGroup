@@ -8,13 +8,14 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### February 20
+#### February 27
 
-Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders
+ E(3) x SO(3)-Equivariant Networks for Spherical Deconvolution in Diffusion MRI
 \
-Kumar and Patel, 2026
+Elaldi et al., 2023
 \
-[[`paper`](https://arxiv.org/abs/2602.10099)]
+[[`paper`](https://arxiv.org/abs/2304.06103)]
+
 
 ## Paper stack
 
@@ -45,6 +46,14 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### February 20
+
+Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders
+\
+Kumar and Patel, 2026
+\
+[[`paper`](https://arxiv.org/abs/2602.10099)]
 
 #### February 13
 
