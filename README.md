@@ -18,12 +18,6 @@ Kumar and Patel, 2026
 
 ## Paper stack
 
-Fourier Neural Operator for Parametric Partial Differential Equations
-\
-Zongyi Li et al., ICLR 2021
-\
-[[`paper`](https://arxiv.org/pdf/2010.08895)]
-
 Computing Large Deformation Metric Mappings via Geodesic Flows of Diffeomorphisms
 \
 M. Faisal Beg at al., Int. J. Computer Vision 2005
