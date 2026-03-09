@@ -8,14 +8,12 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### February 27
-
- E(3) x SO(3)-Equivariant Networks for Spherical Deconvolution in Diffusion MRI
+#### March 13
+Bayesian Attitude Estimation with the Matrix Fisher Distribution on SO(3)
 \
-Elaldi et al., 2023
+Lee, 2017
 \
-[[`paper`](https://arxiv.org/abs/2304.06103)]
-
+[[`paper`](https://arxiv.org/abs/1710.03746)]
 
 ## Paper stack
 
@@ -46,6 +44,13 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+#### February 27
+
+ E(3) x SO(3)-Equivariant Networks for Spherical Deconvolution in Diffusion MRI
+\
+Elaldi et al., 2023
+\
+[[`paper`](https://arxiv.org/abs/2304.06103)]
 
 #### February 20
 
