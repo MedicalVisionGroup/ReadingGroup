@@ -8,7 +8,7 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### March 13
+#### March 13 and 27
 Bayesian Attitude Estimation with the Matrix Fisher Distribution on SO(3)
 \
 Lee, 2017
@@ -17,11 +17,11 @@ Lee, 2017
 
 ## Paper stack
 
-Computing Large Deformation Metric Mappings via Geodesic Flows of Diffeomorphisms
+Switching State-Space Models
 \
-M. Faisal Beg at al., Int. J. Computer Vision 2005
+Ghahramani and Hinton, University of Toronto Technical Report 1996
 \
-[[`paper`](https://link.springer.com/article/10.1023/B:VISI.0000043755.93987.aa)]
+[[`paper`](https://www.gatsby.ucl.ac.uk/publications/papers/11-1999.pdf)]
 
 ### Interesting MICCAI 2025 Papers
 
