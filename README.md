@@ -8,12 +8,12 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### March 13 and 27
-Bayesian Attitude Estimation with the Matrix Fisher Distribution on SO(3)
+#### April 3
+State Estimation for Robotics (Sections 9.2 and 9.3)
 \
-Lee, 2017
+Barfoot, 2026
 \
-[[`paper`](https://arxiv.org/abs/1710.03746)]
+[[`book`](https://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser24.pdf)]
 
 ## Paper stack
 
@@ -44,6 +44,14 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### March 13 and 27
+Bayesian Attitude Estimation with the Matrix Fisher Distribution on SO(3)
+\
+Lee, 2017
+\
+[[`paper`](https://arxiv.org/abs/1710.03746)]
+
 #### February 27
 
  E(3) x SO(3)-Equivariant Networks for Spherical Deconvolution in Diffusion MRI
