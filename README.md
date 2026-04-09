@@ -9,11 +9,11 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 ## Next meeting
 
 #### April 3
-State Estimation for Robotics (Sections 9.2 and 9.3)
+Generative Modeling via Drifting
 \
-Barfoot, 2026
+Deng, 2026
 \
-[[`book`](https://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser24.pdf)]
+[[`paper`](https://arxiv.org/abs/2602.04770)]
 
 ## Paper stack
 
@@ -44,6 +44,14 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### April 3
+State Estimation for Robotics (Sections 9.2 and 9.3)
+\
+Barfoot, 2026
+\
+[[`book`](https://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser24.pdf)]
+
 
 #### March 13 and 27
 Bayesian Attitude Estimation with the Matrix Fisher Distribution on SO(3)
