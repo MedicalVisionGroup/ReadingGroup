@@ -8,7 +8,7 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### April 3
+#### April 10
 Generative Modeling via Drifting
 \
 Deng, 2026
