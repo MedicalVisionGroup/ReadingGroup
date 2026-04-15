@@ -8,12 +8,12 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### April 10
-Generative Modeling via Drifting
+#### April 17
+State Estimation for Robotics (Sections 9.2 and 9.3)
 \
-Deng, 2026
+Barfoot, 2026
 \
-[[`paper`](https://arxiv.org/abs/2602.04770)]
+[[`book`](https://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser24.pdf)]
 
 ## Paper stack
 
@@ -44,6 +44,13 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### April 10
+Generative Modeling via Drifting
+\
+Deng, 2026
+\
+[[`paper`](https://arxiv.org/abs/2602.04770)]
 
 #### April 3
 State Estimation for Robotics (Sections 9.2 and 9.3)
