@@ -8,12 +8,12 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### April 17
-State Estimation for Robotics (Sections 9.2 and 9.3)
+#### April 24
+SAM 3D: 3Dfy Anything in Images
 \
-Barfoot, 2026
+Meta, 2026
 \
-[[`book`](https://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser24.pdf)]
+[[`paper`](https://arxiv.org/pdf/2511.16624)]
 
 ## Paper stack
 
@@ -44,6 +44,13 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### April 17
+State Estimation for Robotics (Sections 9.2 and 9.3)
+\
+Barfoot, 2026
+\
+[[`book`](https://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser24.pdf)]
 
 #### April 10
 Generative Modeling via Drifting
