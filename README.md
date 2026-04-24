@@ -8,20 +8,15 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### April 24
-SAM 3D: 3Dfy Anything in Images
-\
-Meta, 2026
-\
-[[`paper`](https://arxiv.org/pdf/2511.16624)]
-
-## Paper stack
-
+#### May 1
 Switching State-Space Models
 \
 Ghahramani and Hinton, University of Toronto Technical Report 1996
 \
 [[`paper`](https://www.gatsby.ucl.ac.uk/publications/papers/11-1999.pdf)]
+
+## Paper stack
+
 
 ### Interesting MICCAI 2025 Papers
 
@@ -44,6 +39,14 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### April 24
+SAM 3D: 3Dfy Anything in Images
+\
+Meta, 2026
+\
+[[`paper`](https://arxiv.org/pdf/2511.16624)]
+
 
 #### April 17
 State Estimation for Robotics (Sections 9.2 and 9.3)
