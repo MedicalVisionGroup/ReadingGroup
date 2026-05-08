@@ -8,12 +8,12 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### May 1
-Switching State-Space Models
+#### May 8
+VGGT: Visual Geometry Grounded Transformer
 \
-Ghahramani and Hinton, University of Toronto Technical Report 1996
+Wang et al., CVPR 2025
 \
-[[`paper`](https://www.gatsby.ucl.ac.uk/publications/papers/11-1999.pdf)]
+[[`paper`](https://arxiv.org/abs/2503.11651)]
 
 ## Paper stack
 
@@ -39,6 +39,14 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### May 1
+Switching State-Space Models
+\
+Ghahramani and Hinton, University of Toronto Technical Report 1996
+\
+[[`paper`](https://www.gatsby.ucl.ac.uk/publications/papers/11-1999.pdf)]
+
 
 #### April 24
 SAM 3D: 3Dfy Anything in Images
