@@ -1,6 +1,6 @@
 # Polina's Reading Group
 
-We meet on Fridays 11:00-12:30pm in 32-D407.
+We meet on Wednesdays 11:00-12:30pm in 32-D407.
 
 - To join the reading group, feel free to subscribe to the [`v-golland` mailing list at CSAIL](https://lists.csail.mit.edu/mailman/listinfo/v-golland).
 - To get write access to the wiki, please contact Vivek Gopalakrishnan at `vivekg at csail.mit.edu`.
@@ -8,15 +8,14 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### May 8
-VGGT: Visual Geometry Grounded Transformer
+#### June 3
+CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos
 \
-Wang et al., CVPR 2025
+Karaev et al., ICCV 2025
 \
-[[`paper`](https://arxiv.org/abs/2503.11651)]
+[[`paper`](https://openaccess.thecvf.com/content/ICCV2025/html/Karaev_CoTracker3_Simpler_and_Better_Point_Tracking_by_Pseudo-Labelling_Real_Videos_ICCV_2025_paper.html)]
 
 ## Paper stack
-
 
 ### Interesting MICCAI 2025 Papers
 
@@ -39,6 +38,13 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### May 8
+VGGT: Visual Geometry Grounded Transformer
+\
+Wang et al., CVPR 2025
+\
+[[`paper`](https://arxiv.org/abs/2503.11651)]
 
 #### May 1
 Switching State-Space Models
