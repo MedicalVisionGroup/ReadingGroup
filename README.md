@@ -8,7 +8,7 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### June 3
+#### June 5
 CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos
 \
 Karaev et al., ICCV 2025
