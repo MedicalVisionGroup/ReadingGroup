@@ -8,12 +8,12 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### June 5
-CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos
+#### June 12
+Is Space-Time Attention All You Need for Video Understanding?
 \
-Karaev et al., ICCV 2025
+Bertasius et al., ICML 2021
 \
-[[`paper`](https://openaccess.thecvf.com/content/ICCV2025/html/Karaev_CoTracker3_Simpler_and_Better_Point_Tracking_by_Pseudo-Labelling_Real_Videos_ICCV_2025_paper.html)]
+[[`paper`](https://arxiv.org/abs/2102.05095)]
 
 ## Paper stack
 
@@ -38,6 +38,13 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### June 5
+CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos
+\
+Karaev et al., ICCV 2025
+\
+[[`paper`](https://openaccess.thecvf.com/content/ICCV2025/html/Karaev_CoTracker3_Simpler_and_Better_Point_Tracking_by_Pseudo-Labelling_Real_Videos_ICCV_2025_paper.html)]
 
 #### May 8
 VGGT: Visual Geometry Grounded Transformer
