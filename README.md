@@ -8,12 +8,21 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### June 12
-Is Space-Time Attention All You Need for Video Understanding?
+#### June 22
+CoTracker: It is Better to Track Together
 \
-Bertasius et al., ICML 2021
+Karaev et al., ECCV 2024
 \
-[[`paper`](https://arxiv.org/abs/2102.05095)]
+[[`paper`](https://arxiv.org/abs/2307.07635)]
+
+
+#### June 22
+Local All-Pair Correspondence for Point Tracking
+\
+Cho et al., ECCV 2024
+\
+[[`paper`](https://arxiv.org/abs/2407.15420)]
+
 
 ## Paper stack
 
@@ -38,6 +47,13 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### June 12
+Is Space-Time Attention All You Need for Video Understanding?
+\
+Bertasius et al., ICML 2021
+\
+[[`paper`](https://arxiv.org/abs/2102.05095)]
 
 #### June 5
 CoTracker3: Simpler and Better Point Tracking by Pseudo-Labelling Real Videos
