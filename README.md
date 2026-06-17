@@ -15,8 +15,6 @@ Karaev et al., ECCV 2024
 \
 [[`paper`](https://arxiv.org/abs/2307.07635)]
 
-
-#### June 22
 Local All-Pair Correspondence for Point Tracking
 \
 Cho et al., ECCV 2024
