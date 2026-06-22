@@ -9,17 +9,13 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 ## Next meeting
 
 #### June 22
-CoTracker: It is Better to Track Together
+Efficiently Reconstructing Dynamic Scenes One D4RT at a Time
 \
-Karaev et al., ECCV 2024
+Zhang et al., 2025
 \
-[[`paper`](https://arxiv.org/abs/2307.07635)]
+[[`paper`](https://arxiv.org/abs/2512.08924)]
 
-Local All-Pair Correspondence for Point Tracking
-\
-Cho et al., ECCV 2024
-\
-[[`paper`](https://arxiv.org/abs/2407.15420)]
+
 
 
 ## Paper stack
@@ -45,6 +41,20 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### June 22
+CoTracker: It is Better to Track Together
+\
+Karaev et al., ECCV 2024
+\
+[[`paper`](https://arxiv.org/abs/2307.07635)]
+
+Local All-Pair Correspondence for Point Tracking
+\
+Cho et al., ECCV 2024
+\
+[[`paper`](https://arxiv.org/abs/2407.15420)]
+
 
 #### June 12
 Is Space-Time Attention All You Need for Video Understanding?
