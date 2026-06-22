@@ -8,7 +8,7 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### June 22
+#### June 26
 Efficiently Reconstructing Dynamic Scenes One D4RT at a Time
 \
 Zhang et al., 2025
