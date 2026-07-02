@@ -8,12 +8,12 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### June 26
-Efficiently Reconstructing Dynamic Scenes One D4RT at a Time
+#### July 6
+Mean shift: a robust approach toward feature space analysis
 \
-Zhang et al., CPVR 2026
+D. Comaniciu et al., IEEE 2002
 \
-[[`paper`](https://arxiv.org/abs/2512.08924)]
+[[`paper`](https://ieeexplore.ieee.org/document/1000236)]
 
 
 
@@ -41,6 +41,14 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### June 26
+Efficiently Reconstructing Dynamic Scenes One D4RT at a Time
+\
+Zhang et al., CPVR 2026
+\
+[[`paper`](https://arxiv.org/abs/2512.08924)]
+
 
 #### June 22
 CoTracker: It is Better to Track Together
