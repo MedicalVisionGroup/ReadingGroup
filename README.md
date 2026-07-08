@@ -13,7 +13,7 @@ SAM 3D: 3Dfy Anything in Images
 \
 Chen, Xingyu, et al., arXiv 2025
 \
-[[`paper`]([https://ieeexplore.ieee.org/document/1000236](https://arxiv.org/pdf/2511.16624))]
+[[`paper`](https://arxiv.org/pdf/2511.16624)]
 
 
 
