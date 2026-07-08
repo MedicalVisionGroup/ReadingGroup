@@ -8,12 +8,12 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### July 6
-Mean shift: a robust approach toward feature space analysis
+#### July 13
+SAM 3D: 3Dfy Anything in Images
 \
-D. Comaniciu et al., IEEE 2002
+Chen, Xingyu, et al., arXiv 2025
 \
-[[`paper`](https://ieeexplore.ieee.org/document/1000236)]
+[[`paper`]([https://ieeexplore.ieee.org/document/1000236](https://arxiv.org/pdf/2511.16624))]
 
 
 
