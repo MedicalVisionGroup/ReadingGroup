@@ -42,6 +42,13 @@ T. Schnabel et al., MICCAI 2025
 
 ## Past Meetings
 
+#### July 6
+Mean shift: a robust approach toward feature space analysis
+\
+D. Comaniciu et al., IEEE 2002
+\
+[[`paper`](https://ieeexplore.ieee.org/document/1000236)]
+
 #### June 26
 Efficiently Reconstructing Dynamic Scenes One D4RT at a Time
 \
