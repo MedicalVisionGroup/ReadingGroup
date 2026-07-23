@@ -8,13 +8,12 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### July 13
-SAM 3D: 3Dfy Anything in Images
+#### July 24
+Logarithms and Square Roots of Real Matrices Existence, Uniqueness, and Applications in Medical Imaging
 \
-Chen, Xingyu, et al., arXiv 2025
+Gallier, Jean , arXiv 2018
 \
-[[`paper`](https://arxiv.org/pdf/2511.16624)]
-
+[[`paper`](https://arxiv.org/pdf/0805.0245)]
 
 
 
@@ -41,6 +40,21 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### July 17
+A Fast and Log-Euclidean Polyaffine Framework for Locally
+Linear Registration
+\
+Arsigny et al., Journal of Mathematical Imaging and Vision 2009
+\
+[[`paper`](https://inria.hal.science/inria-00616084/file/Arsigny_JMIV_polyaffine_1_.pdf)]
+
+#### July 13
+SAM 3D: 3Dfy Anything in Images
+\
+Chen, Xingyu, et al., arXiv 2025
+\
+[[`paper`](https://arxiv.org/pdf/2511.16624)]
 
 #### July 6
 Mean shift: a robust approach toward feature space analysis
