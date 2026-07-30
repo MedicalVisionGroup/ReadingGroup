@@ -8,12 +8,19 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### July 24
+#### July 31
 Logarithms and Square Roots of Real Matrices Existence, Uniqueness, and Applications in Medical Imaging
 \
 Gallier, Jean , arXiv 2018
 \
 [[`paper`](https://arxiv.org/pdf/0805.0245)]
+
+Approximating the logarithm of a matrix to
+specified accuracy 
+\
+Cheng et al. , Manchester 2001
+\
+[['paper'](https://eprints.maths.manchester.ac.uk/318/1/36401.pdf)]
 
 
 
@@ -40,6 +47,13 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### July 24
+Logarithms and Square Roots of Real Matrices Existence, Uniqueness, and Applications in Medical Imaging
+\
+Gallier, Jean , arXiv 2018
+\
+[[`paper`](https://arxiv.org/pdf/0805.0245)]
 
 #### July 17
 A Fast and Log-Euclidean Polyaffine Framework for Locally
