@@ -20,7 +20,7 @@ specified accuracy
 \
 Cheng et al. , Manchester 2001
 \
-[['paper'](https://eprints.maths.manchester.ac.uk/318/1/36401.pdf)]
+[[`paper`](https://eprints.maths.manchester.ac.uk/318/1/36401.pdf)]
 
 
 
