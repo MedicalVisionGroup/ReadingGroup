@@ -8,19 +8,24 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Next meeting
 
-#### July 31
-Logarithms and Square Roots of Real Matrices Existence, Uniqueness, and Applications in Medical Imaging
-\
-Gallier, Jean , arXiv 2018
-\
-[[`paper`](https://arxiv.org/pdf/0805.0245)]
+#### August 5
 
 Approximating the logarithm of a matrix to
 specified accuracy 
 \
-Cheng et al. , Manchester 2001
+Cheng et al., Manchester 2001
 \
 [[`paper`](https://eprints.maths.manchester.ac.uk/318/1/36401.pdf)]
+
+POLAFFINI: Efficient feature-based polyaffine
+initialization for improved non-linear image
+registration
+\
+Legouhy et al., arXiv 2024
+\
+[[`paper`](https://arxiv.org/pdf/2407.03922)]
+
+
 
 
 
@@ -47,6 +52,20 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### July 31
+Logarithms and Square Roots of Real Matrices Existence, Uniqueness, and Applications in Medical Imaging
+\
+Gallier, Jean , arXiv 2018
+\
+[[`paper`](https://arxiv.org/pdf/0805.0245)]
+
+Approximating the logarithm of a matrix to
+specified accuracy 
+\
+Cheng et al. , Manchester 2001
+\
+[[`paper`](https://eprints.maths.manchester.ac.uk/318/1/36401.pdf)]
 
 #### July 24
 Logarithms and Square Roots of Real Matrices Existence, Uniqueness, and Applications in Medical Imaging
