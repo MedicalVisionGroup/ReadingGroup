@@ -7,26 +7,12 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 - Feel free to add papers to the paper stack with a PR.
 
 ## Next meeting
-
-#### August 5
-
-Approximating the logarithm of a matrix to
-specified accuracy 
+#### August 21
+Magnetic field and tissue dependencies of human brain longitudinal 1H2O relaxation in vivo
 \
-Cheng et al., Manchester 2001
+Rooney et al., Magnetic Resonance in Medicine 2007
 \
-[[`paper`](https://eprints.maths.manchester.ac.uk/318/1/36401.pdf)]
-
-POLAFFINI: Efficient feature-based polyaffine
-initialization for improved non-linear image
-registration
-\
-Legouhy et al., arXiv 2024
-\
-[[`paper`](https://arxiv.org/pdf/2407.03922)]
-
-
-
+[[`paper`](https://onlinelibrary.wiley.com/doi/10.1002/mrm.21122)]
 
 
 ## Paper stack
@@ -52,6 +38,23 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### August 5
+
+Approximating the logarithm of a matrix to
+specified accuracy 
+\
+Cheng et al., Manchester 2001
+\
+[[`paper`](https://eprints.maths.manchester.ac.uk/318/1/36401.pdf)]
+
+POLAFFINI: Efficient feature-based polyaffine
+initialization for improved non-linear image
+registration
+\
+Legouhy et al., arXiv 2024
+\
+[[`paper`](https://arxiv.org/pdf/2407.03922)]
 
 #### July 31
 Logarithms and Square Roots of Real Matrices Existence, Uniqueness, and Applications in Medical Imaging
