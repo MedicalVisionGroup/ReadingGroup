@@ -22,6 +22,12 @@ Cai et al., Imaging Neuroscience 2024
 
 ## Paper stack
 
+Gaussian Process Morphable Models
+\
+Luthi et al., IEEE TPAMI 2018
+\
+[[`paper`](https://ieeexplore.ieee.org/document/8010438)]
+
 ### Interesting MICCAI 2025 Papers
 
 Reverse Imaging for Wide-spectrum Generalization of Cardiac MRI Segmentation
