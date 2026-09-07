@@ -7,18 +7,12 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 - Feel free to add papers to the paper stack with a PR.
 
 ## Next meeting
-#### September 4
-Convolutional-recurrent neural networks approximate diffusion tractography from T1-weighted MRI and associated anatomical context
+#### September 11
+Fast Diffeomorphic Image Registration via Fourier-Approximated Lie Algebras
 \
-Cai et al., MIDL 2024
+Zhang & Fletcher, IJCV 2019.
 \
-[[`paper`](https://proceedings.mlr.press/v227/cai24a.html)] [[`pdf`](https://proceedings.mlr.press/v227/cai24a/cai24a.pdf)]
-
-Tractography from T1-weighted MRI: Empirically exploring the clinical viability of streamline propagation without diffusion MRI
-\
-Cai et al., Imaging Neuroscience 2024
-\
-[[`paper`](https://pmc.ncbi.nlm.nih.gov/articles/PMC12327083/)]
+[[`paper`](https://link.springer.com/article/10.1007/s11263-018-1099-x)]
 
 ## Paper stack
 
@@ -49,6 +43,19 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+
+#### September 4
+Convolutional-recurrent neural networks approximate diffusion tractography from T1-weighted MRI and associated anatomical context
+\
+Cai et al., MIDL 2024
+\
+[[`paper`](https://proceedings.mlr.press/v227/cai24a.html)] [[`pdf`](https://proceedings.mlr.press/v227/cai24a/cai24a.pdf)]
+
+Tractography from T1-weighted MRI: Empirically exploring the clinical viability of streamline propagation without diffusion MRI
+\
+Cai et al., Imaging Neuroscience 2024
+\
+[[`paper`](https://pmc.ncbi.nlm.nih.gov/articles/PMC12327083/)]
 
 #### August 21
 Magnetic field and tissue dependencies of human brain longitudinal 1H2O relaxation in vivo
