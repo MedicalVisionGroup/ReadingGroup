@@ -7,12 +7,8 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 - Feel free to add papers to the paper stack with a PR.
 
 ## Next meeting
-#### September 11
-Fast Diffeomorphic Image Registration via Fourier-Approximated Lie Algebras
-\
-Zhang & Fletcher, IJCV 2019.
-\
-[[`paper`](https://link.springer.com/article/10.1007/s11263-018-1099-x)]
+#### September 25
+
 
 ## Paper stack
 
@@ -43,6 +39,20 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+#### September 18
+Estimation of slipping organ motion by registration with direction-dependent regularization
+\
+Schmidt-Richberg et al., Medical Image Analysis 2012.
+\
+[[`paper`](https://pubmed.ncbi.nlm.nih.gov/21764627/)]
+
+#### September 11
+Fast Diffeomorphic Image Registration via Fourier-Approximated Lie Algebras
+\
+Zhang & Fletcher, IJCV 2019.
+\
+[[`paper`](https://link.springer.com/article/10.1007/s11263-018-1099-x)]
+
 
 #### September 4
 Convolutional-recurrent neural networks approximate diffusion tractography from T1-weighted MRI and associated anatomical context
