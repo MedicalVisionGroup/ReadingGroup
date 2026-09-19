@@ -12,6 +12,12 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 
 ## Paper stack
 
+Planar Shape Representation and Matching Under Projective Transformation
+\
+Srestasathiern et al., CVIU 2011
+\
+[[`paper`](https://www.sciencedirect.com/science/article/abs/pii/S107731421100169X)]
+
 Gaussian Process Morphable Models
 \
 Luthi et al., IEEE TPAMI 2018
