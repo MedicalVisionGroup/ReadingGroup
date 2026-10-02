@@ -7,8 +7,13 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 - Feel free to add papers to the paper stack with a PR.
 
 ## Next meeting
-#### September 25
+#### October 9
 
+Gaussian Processes for Machine Learning (Chapter 2)
+\
+Rasmussen and Williams, MIT Press, 2006
+\
+[[`paper`](https://gaussianprocess.org/gpml/chapters/RW2.pdf)]
 
 ## Paper stack
 
