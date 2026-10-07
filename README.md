@@ -28,7 +28,31 @@ Gaussian Process Morphable Models
 Luthi et al., IEEE TPAMI 2018
 \
 [[`paper`](https://ieeexplore.ieee.org/document/8010438)]
+### Interesting MICCAI 2026 Papers
 
+Low-Rank-Modulated Functa: Exploring the Latent Space of Implicit Neural Representations for Interpretable Ultrasound Video Analysis
+\
+Wolleb et al., MICCAI 2026
+\
+[[`paper`](https://arxiv.org/pdf/2603.25951)]
+
+Panda: Unsupervised Pelvic Anomaly Detection for Real-Time MR Imaging
+\
+Knupfer et al., MICCAI 2026
+\
+[[`paper`](https://arxiv.org/pdf/2607.24703)]
+
+STAMP: Subtype-Aware Spatio-Temporal Atlases for Personalized Prediction of Longitudinal Alzheimer's Disease Progression
+\
+MICCAI 2026
+\
+[[`paper`](https://conferences.miccai.org/2026/files/downloads/MICCAI2026-Main-Conference-Oral-and-Poster-Program.pdf)]
+
+Explainability in multimodal deep transformation models for stroke outcome prediction
+\
+Brändli et al., MICCAI 2026
+\
+[[`paper`](https://arxiv.org/pdf/2504.06299)]
 ### Interesting MICCAI 2025 Papers
 
 Reverse Imaging for Wide-spectrum Generalization of Cardiac MRI Segmentation
