@@ -7,14 +7,13 @@ We meet on Fridays 11:00-12:30pm in 32-D407.
 - Feel free to add papers to the paper stack with a PR.
 
 ## Next meeting
-#### October 9
+#### November 6
 
-Gaussian Processes for Machine Learning (Chapter 2)
-\
-Rasmussen and Williams, MIT Press, 2006
-\
-[[`paper`](https://gaussianprocess.org/gpml/chapters/RW2.pdf)]
+Optimal-Transport Analysis of Single-Cell Gene Expression Identifies Developmental Trajectories in Reprogramming
 
+Schiebinger et al., Cell, 2019
+[[`Math in Supplemental Materials`](https://ars.els-cdn.com/content/image/1-s2.0-S009286741930039X-mmc8.pdf)]
+[[`paper`](https://www.sciencedirect.com/science/article/pii/S009286741930039X)]
 ## Paper stack
 
 Planar Shape Representation and Matching Under Projective Transformation
@@ -74,6 +73,23 @@ T. Schnabel et al., MICCAI 2025
 [[`paper`](https://papers.miccai.org/miccai-2025/paper/2543_paper.pdf)]
 
 ## Past Meetings
+#### October 30
+
+Cost-Optimal Active AI Model Evaluation
+
+Angelopoulos et al., arXiv, 2025
+
+[[`paper`](https://arxiv.org/abs/2506.07949)]
+
+
+#### October 9
+
+Gaussian Processes for Machine Learning (Chapter 2)
+\
+Rasmussen and Williams, MIT Press, 2006
+\
+[[`paper`](https://gaussianprocess.org/gpml/chapters/RW2.pdf)]
+
 #### September 18
 Estimation of slipping organ motion by registration with direction-dependent regularization
 \
